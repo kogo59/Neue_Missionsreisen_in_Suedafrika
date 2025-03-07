@@ -1,6 +1,6 @@
 # Neue Missionsreisen in Süd-Afrika unternommen im Auftrage der englischen Regierung.
 
-<img align="right" height="150" src="https://github.com/kogo59/he_Central_Caucasus_and_Bashan/blob/main/images/cover.jpg">
+<img align="right" height="150" src="hhttps://github.com/kogo59/Neue_Missionsreisen_in_Suedafrika/blob/main/images/cover.jpg">
 
 This is a git repository of the source files for the book "Neue Missionsreisen in Süd-Afrika unternommen im Auftrage der englischen Regierung. Forschungen am Zambesi und seinen Nebenflüssen
 nebst Entdeckung der Seen Schirwa und Njassa in den Jahren 1858 bis 1864." 
