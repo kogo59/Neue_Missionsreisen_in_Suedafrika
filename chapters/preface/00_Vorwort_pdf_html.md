@@ -188,23 +188,23 @@ Rede ihres Königs herauszulocken, als die Ansichten seines Ministeriums.
 
 1. [Vogelperspective der großen Wasserfälle des Zambesi (Mosiotunya oder Victoriafälle genannt) und der im Zickzack laufenden Kluft unterhalb der Fälle, durch welche der Fluß entrinnt. Titelkupfer der 1. Abtheilung, vergl. 1. Abth S. 279 ff](#b001)
 
-2. Mit Schlingpflanzen bedeckte Pandane oder Schraubenpalme am Kongokanal des Zambesi
+2. [Mit Schlingpflanzen bedeckte Pandane oder Schraubenpalme am Kongonekanal des Zambesi.](#b020)
 
-3. Ansicht von Mazaro. — In der Ferne eine Schlacht zwischen Portugiesen und Rebellen.
+3. [Ansicht von Mazaro. — In der Ferne eine Schlacht zwischen Portugiesen und Rebellen.](#b030)
 
-4. Tanz der Landeens oder Zulus, die in Schupanga angekommen sind, um von den Portugiesen ihren jährlichen Tribut zu erheben.
+4. [Tanz der Landeens oder Zulus, die in Schupanga angekommen sind, um von den Portugiesen ihren jährlichen Tribut zu erheben.](#b032)
 
-5. Das Grab der Frau Livingstone unter dem Baobabbaume in der Nãhe des Schupangahauses.
+5. [Das Grab der Frau Livingstone unter dem Baobabbaume in der Nãhe des Schupangahauses.](#b033)
 
-6. Die „Ma-Robert“ im Zambesi oberhalb Senna; in der Ferne der sattelförmige Kevramisahügel.
+6. [Die „Ma-Robert“ im Zambesi oberhalb Senna; in der Ferne der sattelförmige Kevramisahügel.](#b036)
 
-7. Landeens oder Zulnus, die in Senna von den Portugiesen Tribut erheben, stellen Kriegsübungen zur Schau an.
+7. [Landeens oder Zulus, die in Senna von den Portugiesen Tribut erheben, stellen Kriegsübungen zur Schau an.](#b038)
 
-8. Flußpferdspeer mit aufgewicleltem Milolaseil und wurffertig eingesetzter Speerspitze.
+8. [Flußpferdspeer mit aufgewickeltem Milolaseil und wurffertig eingesetzter Speerspitze.](#b041)
 
-9. Die Art, wie man die Speerspitze am Seile befestigt.
+9. [Die Art, wie man die Speerspitze am Seile befestigt.](#b041)
 
-10. Die Speerspitze hat in's Thier eingeschlagen und das Seil wickelt sich vom Schafte ab.
+10. [Die Speerspitze hat in's Thier eingeschlagen und das Seil wickelt sich vom Schafte ab.](#b041)
 
 11. Ansicht eines Theiles der Kebrabasastromschnellen. 
 

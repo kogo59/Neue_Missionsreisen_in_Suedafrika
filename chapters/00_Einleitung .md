@@ -335,11 +335,4 @@ gerade aus unbedeutenden Handlungen und Worten des täglichen Lebens erkennt man
 den Charakter am treuesten und besten. Und gewiß wird es Vielen angenehm sein,
 selbst Schlüsse aus ihnen zu ziehen, als von uns geschulmeistert zu werden.
 
-
-
-
-
-
-
-
 :::
