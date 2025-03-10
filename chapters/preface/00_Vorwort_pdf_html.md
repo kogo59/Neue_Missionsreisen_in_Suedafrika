@@ -206,9 +206,9 @@ Rede ihres Königs herauszulocken, als die Ansichten seines Ministeriums.
 
 10. [Die Speerspitze hat in's Thier eingeschlagen und das Seil wickelt sich vom Schafte ab.](#b041)
 
-11. Ansicht eines Theiles der Kebrabasastromschnellen. 
+11. [Ansicht eines Theiles der Kebrabasastromschnellen.](#b057)
 
-12. Frauen mit Wassertöpfen hören der Musik auf der Marimba, Sausa und Papagenopfeife zu.
+12. [Frauen mit Wassertöpfen hören der Musik auf der Marimba, Sausa und Papagenopfeife zu.](#b068)
 
 13. Mamvirafall, der erste oder niedrigste der Murchison'schen Wasserfälle
 
