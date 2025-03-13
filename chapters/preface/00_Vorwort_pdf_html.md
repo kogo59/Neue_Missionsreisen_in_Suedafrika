@@ -210,7 +210,7 @@ Rede ihres Königs herauszulocken, als die Ansichten seines Ministeriums.
 
 12. [Frauen mit Wassertöpfen hören der Musik auf der Marimba, Sausa und Papagenopfeife zu.](#b068)
 
-13. Mamvirafall, der erste oder niedrigste der Murchison'schen Wasserfälle
+13. [Mamvirafall, der erste oder niedrigste der Murchison'schen Wasserfälle.](#b085)
 
 14. Afrikanische Geige mit *einer* Saite.
 

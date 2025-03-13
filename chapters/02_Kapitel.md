@@ -575,14 +575,10 @@ für sie fast den ganzen Weg hinauf. Sie schliefen jene Nacht an einer Quelle in
 einem tuffartigen Felsen nordwestlich von Chipereziwa, und hatten nie einen
 süßeren Schlaf.
 
-:::: { .wrap-100 .caption }
-![Frauen mit Wassertöpfen hören der Musik auf der Marimba, Sausa und Papagenopfeife zu.](Neue_Missionsreisen_068.jpg "Frauen mit Wassertöpfen hören der Musik auf der Marimba, Sausa und Papagenopfeife zu."){#b068}
-::::
-
 :::
 
 [^0200]: [Makololo, Manganja, Ajawa, Batoka, Matebele, Babisa, Bawe etc. etc.
-sind sämmtlich Plurale; Ma, Ba, A sind Plural-Präfixe, welche die Araber in Wa verwandeln, wie Wanyassa, die Nyassaner, oder Manganja, Wabisa, die fich seibst Babisa und bisweilen Avisa nennen. Wir haben nicht für nöthig gehalten, Wörtern, die schon Plurale sind, ein s anzusetzen.]{.footnote}
+sind sämmtlich Plurale; Ma, Ba, A sind Plural-Präfixe, welche die Araber in Wa verwandeln, wie Wanyassa, die Nyassaner, oder Manganja, Wabisa, die sich selbst Babisa und bisweilen Avisa nennen. Wir haben nicht für nöthig gehalten, Wörtern, die schon Plurale sind, ein s anzusetzen.]{.footnote}
 
 [^0201]:  [Das ist nicht jener Bonga, Mariano's Bruder, der in einer andern Gegend den Krieg fortsetzte. Das Wort bedeutet eine „Tigerkatze,“ und der hier Erwähnte war der Sohn Nyaunde's, der, als die ganzen Truppen von Tette am Luenya Musterung hatten, von seinem Vater auf das entgegengesetzte Ufer geschickt wurde und das ganze Dorf, außer Kirche und Fort, wegbrannte.]{.footnote}
 
