@@ -212,11 +212,11 @@ Rede ihres Königs herauszulocken, als die Ansichten seines Ministeriums.
 
 13. [Mamvirafall, der erste oder niedrigste der Murchison'schen Wasserfälle.](ch003.xhtml#b085)
 
-14. Afrikanische Geige mit *einer* Saite.
+14. [Afrikanische Geige mit *einer* Saite.](ch003.xhtml#b101)
 
-15. Ansicht des Dampfers, der Flußpferdfallen und eines todten Flußpferdes.
+15. [Ansicht des Dampfers, der Flußpferdfallen und eines todten Flußpferdes.](ch003.xhtml#b103)
 
-16. Fischkorb.
+16. [Fischkorb.](ch003.xhtml#b108)
 
 17. Einheimisches Gewebe und eingeborener Weber, die landesübliche ungeheure Tabakespfeife rauchend.
 
