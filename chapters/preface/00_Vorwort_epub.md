@@ -218,13 +218,13 @@ Rede ihres Königs herauszulocken, als die Ansichten seines Ministeriums.
 
 16. [Fischkorb.](ch003.xhtml#b108)
 
-17. Einheimisches Gewebe und eingeborener Weber, die landesübliche ungeheure Tabakespfeife rauchend.
+17. [Einheimisches Gewebe und eingeborener Weber, die landesübliche ungeheure Tabakespfeife rauchend.](ch003.xhtml#b122)
 
-18. Eine Schmiede mit Blasebalg von Ziegenleder.
+18. [Eine Schmiede mit Blasebalg von Ziegenleder.](ch003.xhtml#b123)
 
-19. Pelele oder Lippenring einer Manganjerin.
+19. [Pelele oder Lippenring einer Manganjerin.](ch003.xhtml#b125)
 
-20. „Goree“ oder Seclavensto.
+20. [„Goree“ oder Sclavenstock.](ch003.xhtml#b136)
 
 21. Hochzeitszug zu Tette. Braut und Bräutigam von Sclaven in Machillas oder Hängematten getragen. Begleitende Freunde. Ehrenpforte am Hause des Schwiegervaters. Sclaven schießen Gewehre ab, wie es bei Hochzeiten und Leichenbegängnissen gewöhnlich geschieht
 
