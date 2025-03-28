@@ -228,9 +228,9 @@ Rede ihres Königs herauszulocken, als die Ansichten seines Ministeriums.
 
 21. [Hochzeitszug zu Tette. <small>Braut und Bräutigam von Sclaven in Machillas oder Hängematten getragen. Begleitende Freunde. Ehrenpforte am Hause des Schwiegervaters. Sclaven schießen Gewehre ab, wie es bei Hochzeiten und Leichenbegängnissen gewöhnlich geschieht.</small>](#159)
 
-22. Eine Gruppe  Flusspferde.
+22. [Eine Gruppe Flusspferde.](#205)
 
-23. Ameisengänge.
+23. [Ameisengänge.](#208)
 
 24. Sansa, ein musikalisches Instrument.
 
