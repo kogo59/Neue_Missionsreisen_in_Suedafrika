@@ -36,8 +36,6 @@ clean:
 
 epub: $(BUILD)/epub/$(OUTPUT_FILENAME).epub
 
-pdf: $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
-
 $(BUILD)/epub/$(OUTPUT_FILENAME).epub: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS_FILE) $(CSS_FILE_KINDLE) $(IMAGES) \
 																			 $(COVER_IMAGE) $(METADATA) $(PREFACE_EPUB)
 	mkdir -p $(BUILD)/epub
