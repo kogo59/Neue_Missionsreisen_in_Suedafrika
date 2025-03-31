@@ -232,11 +232,11 @@ Rede ihres Königs herauszulocken, als die Ansichten seines Ministeriums.
 
 23. [Ameisengänge.](ch003.xhtml#b208)
 
-24. Sansa, ein musikalisches Instrument.
+24. [Sansa, ein musikalisches Instrument.](ch003.xhtml#b262)
 
-25. Flaschenkürbiß als Resonanzboden.
+25. [Flaschenkürbiß als Resonanzboden.](ch003.xhtml#b262)
 
-26. Flaschenkürbiß, mit Figuren verziert.
+26. [Flaschenkürbiß, mit Figuren verziert.](ch003.xhtml#b262)
 
 27. Blasebalg und andere Werkzeuge.
 
