@@ -26,6 +26,7 @@ Schlimmer Ausgang der Mission. — Fieber, nicht Gift, war die Ursache der
 Todesfälle.<br /><br/>
 ::::
 
+
 Am Flusse hinaufmarschirend, setzten wir ungefähr acht Meilen oberhalb der Insel
 Kalai über den Lekone an seiner Einmünung und gingen weiter nach dem der Insel
 Chundu gegenüberliezenden Dorfe Nambowe. Der Ortsvorsteher ist einer der Mateele
