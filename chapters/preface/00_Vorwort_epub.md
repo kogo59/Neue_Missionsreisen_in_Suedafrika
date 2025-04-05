@@ -238,9 +238,9 @@ Rede ihres Königs herauszulocken, als die Ansichten seines Ministeriums.
 
 26. [Flaschenkürbiß, mit Figuren verziert.](ch003.xhtml#b262)
 
-27. Blasebalg und andere Werkzeuge.
+27. [Blasebalg und andere Werkzeuge.](ch003.xhtml#b351)
 
-28. Leibgürtel
+28. [Leibgürtel.](ch003.xhtml#b353)
 
 ### Zweite Abtheilung.
 
