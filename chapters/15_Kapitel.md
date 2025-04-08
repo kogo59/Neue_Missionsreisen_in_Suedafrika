@@ -1,6 +1,5 @@
 ## Fünfzehntes Kapitel. {.break-before }
 
-
 ::: justified
 
 :::: fs-xs

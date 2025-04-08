@@ -1,4 +1,4 @@
-# Inhalt der ersten Abteilung { #abt1 .unnumbered}
+# Erste Abteilung { #abt1 .unnumbered}
 
 ## Einleitung 
 
@@ -195,7 +195,19 @@ Vorsicht. Ein
 Jeder wundert sich, warum derjenige, der einem Andern das Leben genommen hat, nicht diese oder jene Vorsicht brauchte, um der Entdeckung zu entgehen; und Jedermann kann sich wundern, warum die Sclavenhändler durch die Ueberfüllung und alle ihre übeln Folgen so direct gegen ihren eigenen Vortheil gehandelt haben.
 Aber das ist das Verhängniß des Mörders. Der Verlust an Menschenleben aus solchen Gründen spottet jeder Uebertreibung.
 
-Die Meinung des Reverend J. L. Wilson über diesen Gegenstand, eines höchst intelligenten amerikanischen Missionars, der weit das tüchtigste Werk über die Westküste, das bis jetzt erschienen ist, geschrieben hat, wiegt eine ganze Menge anderer auf. Er erklärt, daß die Bemühungen der englischen Regierung jedes Lob verdienen. Ohne die Kreuzer, und namentlich die englischen Kreuzer, würde Afrika der Thätigkeit der Missionare noch immer unzugänglich sein, „und es steht inbrünstig zu hoffen,“ fährt er fort, „daß diese edlen und uneigennützigen Maßregeln nicht erschlaffen mögen, bis der unreine Dämon von der Erde vertrieben sein wird.“ Der Sclavenhandel ist das größte Hinderniß der Civilisation und der Ausbreitung des Handels; und da die Engländer das philanthropischste Volk der Welt sind, und wahrscheinlich jederzeit in commercieller Hinsicht das Meiste auf dem afrikanischen Continent auf's Spiel setzen werden, so zeugen die Maßregeln zur Unterdrückung des Sclavenhandels von tiefer Weisheit und Vorsicht.
+Die Meinung des Reverend J. L. Wilson über diesen Gegenstand, eines höchst
+intelligenten amerikanischen Missionars, der weit das tüchtigste Werk über die
+Westküste, das bis jetzt erschienen ist, geschrieben hat, wiegt eine ganze Menge
+anderer auf. Er erklärt, daß die Bemühungen der englischen Regierung jedes Lob
+verdienen. Ohne die Kreuzer, und namentlich die englischen Kreuzer, würde Afrika
+der Thätigkeit der Missionare noch immer unzugänglich sein, „und es steht
+inbrünstig zu hoffen,“ fährt er fort, „daß diese edlen und uneigennützigen
+Maßregeln nicht erschlaffen mögen, bis der unreine Dämon von der Erde vertrieben
+sein wird.“ Der Sclavenhandel ist das größte Hinderniß der Civilisation und der
+Ausbreitung des Handels; und da die Engländer das philanthropischste Volk der
+Welt sind, und wahrscheinlich jederzeit in commercieller Hinsicht das Meiste auf
+dem afrikanischen Continent auf's Spiel setzen werden, so zeugen die Maßregeln
+zur Unterdrückung des Sclavenhandels von tiefer Weisheit und Vorsicht.
 
 Als man in Verfolgung desselben Zweckes nach der Ostküste kam, fand man diese
 verschlossen. Trotz der lobenswerthen Anstrengungen der Kreuzer Ihrer Majestät
