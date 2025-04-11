@@ -244,7 +244,7 @@ Rede ihres Königs herauszulocken, als die Ansichten seines Ministeriums.
 
 ### Zweite Abtheilung.
 
-29. Trupp Gefangener, auf ihrem Wege nach Tette bei Mbame's Dorf angetroffen
+29. [Trupp Gefangener, auf ihrem Wege nach Tette bei Mbame's Dorf angetroffen.](#b047)
 
 30. Eine alte Manganjerin, die Pelele oder den Lippenring und die in sich
     kreuzweise durchschneidenden Linien auf Gesicht, Armen und Körper bestehende

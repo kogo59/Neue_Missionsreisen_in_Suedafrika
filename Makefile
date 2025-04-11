@@ -4,6 +4,7 @@ OUTPUT_FILENAME = Neue_Missionsreisen_in_Suedafrika
 TITLE_NAME = "Neue Missionsreisen in Suedafrika"
 METADATA = metadata.yml
 CHAPTERS = chapters/*.md
+CHAPTERS_HTML_PDF = chapters/*.md
 TOC = --toc --toc-depth=4 
 IMAGES_FOLDER = images
 IMAGES = $(IMAGES_FOLDER)/*

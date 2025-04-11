@@ -5,7 +5,7 @@
 ::: justified
 
 :::: fs-xs
-Sinamane. — Fahrt in Baumlähnen. — Moemba. — Pallisaden zum Wasserschöpfen. —
+Sinamane. — Fahrt in Baumkähnen. — Moemba. — Pallisaden zum Wasserschöpfen. —
 Großmuth der Batoka. — Wir kaufen einen Baumkahn. — Ameisenlõwen. — Eine Heerde
 Flußpferde. — Wasserfalldoctor von Kariba. — Albinos unter den Menschen und
 Flußpferden. — Wir treffen Sequascha, der nicht ganz so schwarz ist, wie er
