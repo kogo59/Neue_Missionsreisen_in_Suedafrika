@@ -246,9 +246,9 @@ Rede ihres Königs herauszulocken, als die Ansichten seines Ministeriums.
 
 29. [Trupp Gefangener, auf ihrem Wege nach Tette bei Mbame's Dorf angetroffen.](ch004.xhtml#b047)
 
-30. Eine alte Manganjerin, die Pelele oder den Lippenring und die in sich
+30. [Eine alte Manganjerin, die Pelele oder den Lippenring und die in sich
     kreuzweise durchschneidenden Linien auf Gesicht, Armen und Körper bestehende
-    Tättowirung zeigend.
+    Tättowirung zeigend.](ch004.xhtml#b092)
 
 31. In der Nähe der Wasserfälle des Rovuma. Bienenstock. Von Frauen zum
     Fischfangen gebranchter Korb.
