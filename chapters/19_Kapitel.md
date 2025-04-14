@@ -13,7 +13,7 @@ inländischen Sclavenhandels. — Diebe; die erste Räuberei, die wir in Afrika
 erlitten. — Gräber der Eingeborenen. — Mazitu oder Zulus. — Viertägige Trennung.
 — Rauhe Straßen. — Der Mensch des Menschen Feind. — Unser Würfelweissager
 verschwindet, kommt aber wieder zum Vorschein. — Elephanten. — Araber aus
-Katanga. — Arabische Geographie vom Tanganyila und Nyassa. — Der Sclavenhandel.
+Katanga. — Arabische Geographie vom Tanganyika und Nyassa. — Der Sclavenhandel.
 — Rohrhütten in Papyrus. — Junge Frauen werden zum Verkauf hinaufgebracht — Eine
 gescheidte alte Frau. — Wir begegnen in Milena's Dorse plündernden Ajawa. —
 Athletisches Vergnügen eines Elephanten.
