@@ -250,8 +250,8 @@ Rede ihres Königs herauszulocken, als die Ansichten seines Ministeriums.
     kreuzweise durchschneidenden Linien auf Gesicht, Armen und Körper bestehende
     Tättowirung zeigend.](ch004.xhtml#b092)
 
-31. In der Nähe der Wasserfälle des Rovuma. Bienenstock. Von Frauen zum
-    Fischfangen gebranchter Korb.
+31. [In der Nähe der Wasserfälle des Rovuma. Bienenstock. Von Frauen zum
+    Fischfangen gebrauchter Korb.](ch004.xhtml#b144)
 
 32. Ansicht von Quillimane und vom „Pioneer“.
 

@@ -395,31 +395,67 @@ Herzensgüte und des Ernstes, mit welchem er sich dem edeln Werke widmete, das e
 unternommen hatte, kein Lob seiner Freunde die Wirklichkeit übersteigen kann.
 Das Grab, in welchem sein Leichnam ruht, liegt ungefähr hundert Yards von der
 Einmündung des Ruo entfernt, am linken Ufer des Schire und der Insel Malo
-gegenüber. Die Makololo brachten dann Herrn Burrup, so weit als 
-sie konnten, im Baumkahn hinauf, und trugen ihn, indem sie eine Sänfte aus Baumästen machten, den ganzen Weg bis zu ihren Landsleuten in Magomero zurück entweder selbst, oder nahmen Andere, um ihn zu tragen. Sie eilten mit ihm fort, damit er nicht in ihren Händen sterben und die Schuld ihnen zugerechnet werden möchte. Bald nach seiner Rückkehr verschied er in Folge der Krankheit, die ihn überfiel, als er sich aufmachte, seiner Gattin entgegen zu gehen.
+gegenüber. Die Makololo brachten dann Herrn Burrup, so weit als sie konnten, im
+Baumkahn hinauf, und trugen ihn, indem sie eine Sänfte aus Baumästen machten,
+den ganzen Weg bis zu ihren Landsleuten in Magomero zurück entweder selbst, oder
+nahmen Andere, um ihn zu tragen. Sie eilten mit ihm fort, damit er nicht in
+ihren Händen sterben und die Schuld ihnen zugerechnet werden möchte. Bald nach
+seiner Rückkehr verschied er in Folge der Krankheit, die ihn überfiel, als er
+sich aufmachte, seiner Gattin entgegen zu gehen.
 
-Am 11. März kam Capitän Wilson in Schupanga an, nachdem er drei Wochen auf dem Schire gewesen war. Am 15.
-dampfte der „Pioneer“ nach dem Kongone hinab. Die „Gorgon“ war in einem Sturme auf die See hinausgetrieben worden, und war nach Johanna gefahren, um Proviant zu holen. Ehe sie zurückkehrte, kam der 2. April heran. Da unsere Lebensmittel erschöpft waren, und wir vom Herrn der Brigg einige kaufen mußten, so war es ein Glück für uns, daß sie eine Lieferung erhalten hatte. Am 4. fuhr die „Gorgon“ nach dem Vorgebirge der guten Hoffnung ab, und nahm alle Mitglieder der Missionsgesellschaft, die im Januar gekommen waren, bis auf eines mit. Wir ergriffen diese Gelegenheit, dem braven Capitän Wilson und seinen Officieren für unzählige Beweise der Gefälligkeit und eifrigen Mitwirkung unsere herzliche Dankbarkeit auszudrücken. Auch dem Capitän R. B. Oldfield und den übrigen Officieren vom Admiral herab gebührt unser wärmster Dank, und wir bitten, ihnen zu versichern, daß bei unseren Mühseligkeiten und Prüfungen nichts ermuthigender für uns sein konnte, als das Bewußtsein, daß wir bei unseren Arbeiten ihre Freundschaft und Sympathie besaßen.
+Am 11. März kam Capitän Wilson in Schupanga an, nachdem er drei Wochen auf dem
+Schire gewesen war. Am 15. dampfte der „Pioneer“ nach dem Kongone hinab. Die
+„Gorgon“ war in einem Sturme auf die See hinausgetrieben worden, und war nach
+Johanna gefahren, um Proviant zu holen. Ehe sie zurückkehrte, kam der 2. April
+heran. Da unsere Lebensmittel erschöpft waren, und wir vom Herrn der Brigg
+einige kaufen mußten, so war es ein Glück für uns, daß sie eine Lieferung
+erhalten hatte. Am 4. fuhr die „Gorgon“ nach dem Vorgebirge der guten Hoffnung
+ab, und nahm alle Mitglieder der Missionsgesellschaft, die im Januar gekommen
+waren, bis auf eines mit. Wir ergriffen diese Gelegenheit, dem braven Capitän
+Wilson und seinen Officieren für unzählige Beweise der Gefälligkeit und eifrigen
+Mitwirkung unsere herzliche Dankbarkeit auszudrücken. Auch dem Capitän R. B.
+Oldfield und den übrigen Officieren vom Admiral herab gebührt unser wärmster
+Dank, und wir bitten, ihnen zu versichern, daß bei unseren Mühseligkeiten und
+Prüfungen nichts ermuthigender für uns sein konnte, als das Bewußtsein, daß wir
+bei unseren Arbeiten ihre Freundschaft und Sympathie besaßen.
 
-In der „Gorgon“ kam der Reverend James Stewart an, der zur freien Kirche von Schottland gehörte. Er war so weise, erst herzukommen und das Land in Augenschein zu nehmen, ehe er sich über die Bildung einer Mission im Innern entschied. Diesem Zwecke widmete er viele Monate ernster Arbeit. Die Mission sollte sowohl das industrielle als das religiöse Element umfassen. Da nun der Weg auf dem Zambesi und Schire den einzigen gegenwärtig bekannten bildet, mit einer nur ein paar Tage in Anspruch nehmenden Landreise nach den Hochlanden, die fich bis zu einer unbekannten Ferne in den Continent hinein erstrecken, und da es nicht wahrscheinlich war, daß im Gemüth eines Mannes von des Bischofs Mackenzie weiten Aussichten Eifersucht erwachen werde, — zumal dort Raum für Hunderte von Missionen ist, — so gewährten wir einem Gesandten der oben erwähnten thatkräftigen und höchst achtungswerthen Körperschaft gern den in unserer Macht stehenden geringen Beistand, empfahlen ihm aber, das Feld mit eigenen Augen zu prüfen.
+In der „Gorgon“ kam der Reverend James Stewart an, der zur freien Kirche von
+Schottland gehörte. Er war so weise, erst herzukommen und das Land in
+Augenschein zu nehmen, ehe er sich über die Bildung einer Mission im Innern
+entschied. Diesem Zwecke widmete er viele Monate ernster Arbeit. Die Mission
+sollte sowohl das industrielle als das religiöse Element umfassen. Da nun der
+Weg auf dem Zambesi und Schire den einzigen gegenwärtig bekannten bildet, mit
+einer nur ein paar Tage in Anspruch nehmenden Landreise nach den Hochlanden, die
+fich bis zu einer unbekannten Ferne in den Continent hinein erstrecken, und da
+es nicht wahrscheinlich war, daß im Gemüth eines Mannes von des Bischofs
+Mackenzie weiten Aussichten Eifersucht erwachen werde, — zumal dort Raum für
+Hunderte von Missionen ist, — so gewährten wir einem Gesandten der oben
+erwähnten thatkräftigen und höchst achtungswerthen Körperschaft gern den in
+unserer Macht stehenden geringen Beistand, empfahlen ihm aber, das Feld mit
+eigenen Augen zu prüfen.
 
-Während wir nachher in Schupanga aufgehalten wurden, ging er den Schire hinauf bis zu den oberen Katarakten, und sah die bloßen Ueberbleibsel jener dichten Bevölkerung, die wir anfangs in Frieden und Ueberfluß lebend gefunden hatten, die aber jetzt durch Hungersnoth und Sclavenjagd zerstreut und vernichtet wurde. Das Land, das wir sowohl vorher als nachher so schön und fruchtbar fanden, wurde durch eine strenge Dürrung ausgebrannt; es war in der That in seinem allerschlimmsten Zustande.
-Mit höchst lobenswerther Energie, und trotz gelegentlicher Fieberanfälle ging er
-dann bis nach Kebrabasa den Zambesi hinauf, und verglich denselben, was
-vielleicht Manchem von Interesse sein kann, stellenweise mit der Donau. Seine
-Schätzung der Hochlande war natürlich niedriger als die unserige. Die
-Hauptmängel waren jedoch nach seiner Meinung der Sclavenhandel und die Gewalt,
-die man den ausgemergelten Portugiesen gestattete, das Land Allen zu
-verschließen, einige Verbrecher ihrer eigenen Nation ausgenommen. Die Zeit, in
-der er kam, war ungelegen. Das Unglück, das die Mission der Universitäten
-betroffen hatte, übte auf die Gemüther Vieler in der Heimath eine
-niederschlagende Wirkung aus und machte einen neuen Versuch unräthlich. Wäre
-jedoch die schottische Ausdauer und Energie eingeführt worden, so würde sie sehr
-wahrscheinlich auf den Eifer unserer englischen Brüder höchst wohlthätig
-zurückgewirkt, und man würde nie von einer Desertion gehört haben. Nach Prüfung
-des Landes fuhr Herr Stewart im Anfange des folgenden Jahres auf dem Zambesi
-hinab, und begab sich über Mosambik und das Vorgebirge der guten Hoffnung mit
-seinem Bericht nach Hause.
+Während wir nachher in Schupanga aufgehalten wurden, ging er den Schire hinauf
+bis zu den oberen Katarakten, und sah die bloßen Ueberbleibsel jener dichten
+Bevölkerung, die wir anfangs in Frieden und Ueberfluß lebend gefunden hatten,
+die aber jetzt durch Hungersnoth und Sclavenjagd zerstreut und vernichtet wurde.
+Das Land, das wir sowohl vorher als nachher so schön und fruchtbar fanden, wurde
+durch eine strenge Dürrung ausgebrannt; es war in der That in seinem
+allerschlimmsten Zustande. Mit höchst lobenswerther Energie, und trotz
+gelegentlicher Fieberanfälle ging er dann bis nach Kebrabasa den Zambesi hinauf,
+und verglich denselben, was vielleicht Manchem von Interesse sein kann,
+stellenweise mit der Donau. Seine Schätzung der Hochlande war natürlich
+niedriger als die unserige. Die Hauptmängel waren jedoch nach seiner Meinung der
+Sclavenhandel und die Gewalt, die man den ausgemergelten Portugiesen gestattete,
+das Land Allen zu verschließen, einige Verbrecher ihrer eigenen Nation
+ausgenommen. Die Zeit, in der er kam, war ungelegen. Das Unglück, das die
+Mission der Universitäten betroffen hatte, übte auf die Gemüther Vieler in der
+Heimath eine niederschlagende Wirkung aus und machte einen neuen Versuch
+unräthlich. Wäre jedoch die schottische Ausdauer und Energie eingeführt worden,
+so würde sie sehr wahrscheinlich auf den Eifer unserer englischen Brüder höchst
+wohlthätig zurückgewirkt, und man würde nie von einer Desertion gehört haben.
+Nach Prüfung des Landes fuhr Herr Stewart im Anfange des folgenden Jahres auf
+dem Zambesi hinab, und begab sich über Mosambik und das Vorgebirge der guten
+Hoffnung mit seinem Bericht nach Hause.
 
 Am 7. April hatten wir nur einen einzigen dienstfähigen Mann; alle Uebrigen
 lagen am Fieber oder an dem nichtswürdigen Spiritus darnieder, der von den
