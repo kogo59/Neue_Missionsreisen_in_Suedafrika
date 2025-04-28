@@ -653,7 +653,7 @@ wie in allen anderen Fällen geht ihre Macht nicht weiter, als sie von einer
 Laffette aus sehen können.
 
 :::: { .wrap-100 .caption }
-![In der Nähe der Wasserfälle des Rovuma.<br/> <small>Bienenstock.</small>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Von Frauen zum Fischfangen gebrauchter Korb.</small>](Neue_Missionsreisen_0144.jpg "EIn der Nähe der Wasserfälle des Rovuma."){#b144}
+![In der Nähe der Wasserfälle des Rovuma.<br/> <small>Bienenstock.</small>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Von Frauen zum Fischfangen gebrauchter Korb.</small>](Neue_Missionsreisen_0144.jpg "In der Nähe der Wasserfälle des Rovuma."){#b144}
 ::::
 
 Der Makoa-Häuptling Matingula war gastfreundlich und gesprächig; er sagte uns

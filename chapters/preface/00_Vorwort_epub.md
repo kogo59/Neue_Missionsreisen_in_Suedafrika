@@ -253,7 +253,7 @@ Rede ihres Königs herauszulocken, als die Ansichten seines Ministeriums.
 31. [In der Nähe der Wasserfälle des Rovuma. Bienenstock. Von Frauen zum
     Fischfangen gebrauchter Korb.](ch004.xhtml#b144)
 
-32. Ansicht von Quillimane und vom „Pioneer“.
+32. [Ansicht von Quillimane und vom „Pioneer“.](ch004.xhtml#b153)
 
 33. Gewöhnliche Form der eisernen Spitze eines Ajawapfeiles mit Widerhaken.
 
