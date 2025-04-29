@@ -255,14 +255,13 @@ Rede ihres Königs herauszulocken, als die Ansichten seines Ministeriums.
 
 32. [Ansicht von Quillimane und vom „Pioneer“.](#b153)
 
-33. Gewöhnliche Form der eisernen Spitze eines Ajawapfeiles mit Widerhaken.
+33. [Gewöhnliche Form der eisernen Spitze eines Ajawapfeiles mit Widerhaken.](#b177)
 
-34. Gewöhnliche Form eines Manganjapfeiles, an Spitze, Widerhalen und Hals
-    vergiftet.
+34. [Gewöhnliche Form eines Manganjapfeiles, an Spitze, Widerhaken und Hals vergiftet.](#b177)
 
-35. Die Art, wie die Pfeilspitze in den Schaft eingefügt wird. 
+35. [Die Art, wie die Pfeilspitze in den Schaft eingefügt wird.](#b177)
 
-36. Ganzer Pfeil, fast vier Fuß lang und befiedert.
+36. [Ganzer Pfeil, fast vier Fuß lang und befiedert.](#b177)
 
 37. Hackende Frauenzimmer.
 
