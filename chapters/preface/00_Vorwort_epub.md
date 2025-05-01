@@ -263,12 +263,12 @@ Rede ihres Königs herauszulocken, als die Ansichten seines Ministeriums.
 
 36. [Ganzer Pfeil, fast vier Fuß lang und befiedert.](ch004.xhtml#b177)
 
-37. Hackende Frauenzimmer.
+37. [Hackende Frauenzimmer.](ch004.xhtml#b215)
 
-38. Handnetz am Chia.
+38. [Handnetz am Chia.](ch004.xhtml#b223)
 
-39. Manganjaspeere mit eisernen Schaufeln oder Spaten an den Enden der Griffe
-    und mit eisernen Ringen beschwert.
+39. [Manganjaspeere mit eisernen Schaufeln oder Spaten an den Enden der Griffe
+    und mit eisernen Ringen beschwert.](ch004.xhtml#b225)
 
 40. Eine mahlende Frau.
 
