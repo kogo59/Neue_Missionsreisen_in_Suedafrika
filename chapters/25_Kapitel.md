@@ -5,7 +5,7 @@
 :::: fs-xs
 Kota-kota-Bai. — Araber, die eine Dhow bauen. — Eingeborene versammeln sich an
 einem gewissen Punkte, welcher Hoffnung auf Schutz vor Krieg gewährt. —
-Verbreitet sich der Muhamedanismus in Afrika? — Die heidnischen Afrikaner siehen
+Verbreitet sich der Muhamedanismus in Afrika? — Die heidnischen Afrikaner stehen
 in der Sittlichkeit höher als die Anhänger des falschen Propheten. — Wir ziehen
 nach Westen. — Besteigung des Plateaus. — Einweihungsfeierlichkeit der
 Eingeborenen. — Sclavenstraße — Die Wirkungen verdünnter Luft. — Die

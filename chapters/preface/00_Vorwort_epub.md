@@ -270,9 +270,9 @@ Rede ihres Königs herauszulocken, als die Ansichten seines Ministeriums.
 39. [Manganjaspeere mit eisernen Schaufeln oder Spaten an den Enden der Griffe
     und mit eisernen Ringen beschwert.](ch004.xhtml#b225)
 
-40. Eine mahlende Frau.
+40. [Eine mahlende Frau.](ch004.xhtml#b268)
 
-41. Mühle der Eingeborenen zum Getreidemahlen.
+41. [Mühle der Eingeborenen zum Getreidemahlen.](ch004.xhtml#b269)
 
 42. Maravibogen.
 
