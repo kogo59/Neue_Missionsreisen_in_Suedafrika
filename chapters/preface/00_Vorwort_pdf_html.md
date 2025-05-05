@@ -273,7 +273,7 @@ Rede ihres Königs herauszulocken, als die Ansichten seines Ministeriums.
 
 41. [Mühle der Eingeborenen zum Getreidemahlen.](#b269)
 
-42. Maravibogen.
+42. [Maravibogen.](#b284)
 
 43. Special-Karte von Süd-Ost-Afrika zu Dr. David und Charles Livingstone's
     Neuen Missionsreisen, nach deren astronomischen Beobachtungen und Skizzen
