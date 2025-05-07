@@ -1,4 +1,4 @@
-:::: { .wrap-100 .caption }
+:::: { .wrap-100 .caption .break-before }
 ![Vogelperspective der großen Wasserfälle des Zambesi (Mosiotunya oder Victoriafälle genannt) und der im Zickzack laufenden Kluft unterhalb der Fälle, durch welche der Fluß entrinnt.](Neue_Missionsreisen_001.jpg "Vogelperspective der großen Wasserfälle des Zambesi (Mosiotunya oder Victoriafälle genannt) und der im Zickzack laufenden Kluft unterhalb der Fälle, durch welche der Fluß entrinnt."){#b001}
 ::::
 
