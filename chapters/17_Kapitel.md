@@ -250,7 +250,7 @@ Kongone und dem Lande Nyangalule, und dies ist für einen großen Flug Pelikane
 während der Monate, in denen sie an der Küste bleiben, der Lieblingsort zum
 Fischen. Diese Vögel vertilgen eine ungeheure Menge Fische; sie brüten im April
 auf der niedrigen Insel, die auf der Höhe des Kongone, sowie auch auf
-derjenigen, bie auf der Höhe des Ostluabo liegt. Die Eier, von denen wir eine
+derjenigen, die auf der Höhe des Ostluabo liegt. Die Eier, von denen wir eine
 große Lieferung bekamen, schmecken so stark nach Fischen, daß, um sie
 schmackhaft zu machen, Sardellensauce nothwendig ist. Auf die Luabo-Insel kommen
 zu bestimmten Zeiten die Schildkröten, um ihre Eier zu legen, die statt der

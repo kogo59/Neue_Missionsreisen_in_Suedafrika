@@ -275,9 +275,9 @@ Rede ihres Königs herauszulocken, als die Ansichten seines Ministeriums.
 
 42. [Maravibogen.](#b284)
 
-43. Special-Karte von Süd-Ost-Afrika zu Dr. David und Charles Livingstone's
+43. [Special-Karte von Süd-Ost-Afrika zu Dr. David und Charles Livingstone's
     Neuen Missionsreisen, nach deren astronomischen Beobachtungen und Skizzen
-    gezeichnet von John Arrowsmith. Am Ende.
+    gezeichnet von John Arrowsmith. Am Ende.](#b999)
 
 
 [^0000]: [Die in dem Werke vorkommenden Münzen, Maße und Gewichte sind wo nichts Besonderes bemerkt ist, die englischen. Dies gilt namentlich auch von den Meilen. — Der Anhang, auf welchen in der ersten Abtheilung, Seite 135 in der Anmerkung verwiesen wird, ist nicht gefolgt; sein Inhalt findet sich in der zweiten Abtheilung Seite 97 f. *Anmerkung des Uebersetzers.*]{.footnote}
