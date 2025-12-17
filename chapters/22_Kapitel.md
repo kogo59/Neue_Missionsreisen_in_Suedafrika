@@ -57,7 +57,7 @@ Aber während er gestiegen ist, ist ein ganzer Haufen gesunken und erhebt durch
 Stöße Cigarrenrauch hindurch laute Klagen über die Faulheit der Neger; sie
 könnten laute Klagen über ihre eigene Faulheit hinzufügen.
 
-:::: { .wrap-100 .caption }
+:::: { .wrap-100 .caption .align-center }
 ![Ansicht von Quillimane und vom „Pioneer“.](Neue_Missionsreisen_0153.jpg "Ansicht von Quillimane und vom „Pioneer“."){#b153}
 ::::
 
@@ -186,7 +186,7 @@ Manche die Ansicht ausgesprochen, daß es verkehrt gewesen sei, ein so
 werthvolles Werkzeug *blos* zur Bekehrung der Heiden zu benutzen. Soll einmal
 der Versuch gemacht werden, so heißt es „Pfennige sparen und Thaler
 verschwenden,“ wenn man nicht die allerbesten Männer und diejenigen, welche
-besonders zu dem Werke erzogen worden find, dazu verwenden will. Ein
+besonders zu dem Werke erzogen worden sind, dazu verwenden will. Ein
 gewöhnlicher Geistlicher, so gut er sich auch für eine Pfarrei eignen mag, wird
 ohne besondere Erziehung keinen Missionar abgeben, und was ihre vergleichsweise
 Nützlichkeit betrifft, so ist sie derjenigen des Mannes gleich, der ein Hospital
@@ -218,7 +218,7 @@ Wir versuchten, einige zu fangen, und eins wurde bald geangelt; es erforderte
 ein halbes Dutzend Hände, um es den Fluß hinaufzuziehen; die Haifischangel bog
 sich gerade, und es machte sich fort. Hierauf wurde ein großer eiserner
 Angelhaken gemacht; aber da die Geschöpfe denselben nicht verschlucken konnten,
-drũckten ihre Rachen ihn bald gerade — und unsere Krokodilfischerei war
+drückten ihre Rachen ihn bald gerade — und unsere Krokodilfischerei war
 verfehlt. Der Zug eines Krokodils war, wie man — selbst nach der Kraft eines
 Lachses — erwarten konnte, furchtbar stark.
 
@@ -493,13 +493,13 @@ Livingstone gar keine Entdeckungen gemacht habe. In der That war unser Zweck
 nicht sowohl Entdeckung, als der Wunsch, die Nation, welche Sr. Excellenz
 Landsleute so zu Sclaven gemacht und entwürdigt hatten, zu einem Zustand der
 Freiheit und Civilisation hinzuleiten. Wir bedauern, daß wir diese Bemerkung
-machen müssen — aber es war ein ungeheuerer Fehler, an die . . . .^[^2200]^ der
+machen müssen — aber es war ein ungeheuerer Fehler, an die . . . .<sup>[^2200]</sup> der
 Regierung von Portugal oder daran zu glauben, daß sie auch nur eine Spur von
 Verlangen trage, die Verbesserung Afrikas zu befördern. Man soll von Jedermann
 das Beste hoffen und ihm, wo möglich, gute Absichten zutrauen; aber, obwohl wir
 uns gegen einzelne Männer der Nation tief verpflichtet fühlen und gern die schon
 früher dargelegte Hochachtung von Neuem aussprechen, so müssen wir doch das
-Benehmen der portugiesischen Staatsmänner gegen Afrika schlechthin für .....^[^2200]^
+Benehmen der portugiesischen Staatsmänner gegen Afrika schlechthin für .....<sup>[^2200]</sup>
 erklären.
 
 Nachdem einige Meilen der Straße vollendet und die Ochsen zum Zug abgerichtet
@@ -519,7 +519,7 @@ Kriegsschiff täglich gehörig geschrubbt und gewaschen und außerdem, daß wir
 Alles nach Schiffsart geordnet hatten, jeden Abend mitten in den Fluß
 hinausgeschwenkt, wegen der größeren Menge Luft, die dort circulirte. Außer
 ihren täglichen laufenden Geschäften im Schiffe wurden die drei Heizer, ein
-Matrose und ein Zimmermann — die jetzt unsere Ergãnzung bildeten — angefeuert,
+Matrose und ein Zimmermann — die jetzt unsere Ergänzung bildeten — angefeuert,
 nach Perlhühnern zu jagen, die im Juni, wo das binnenländische Wasser
 vertrocknet ist, in großen Flügen nach den Ufern des Flusses kommen und des
 Nachts auf den Bäumen sitzen. Alles, was gethan werden kann, um Geist und Körper

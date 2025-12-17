@@ -108,7 +108,7 @@ eine Flaggenstange und ein Zollhaus errichtet worden; auch eine Hütte für eine
 schwarzen Vicecororal und drei Gemeine stand da. Mit der gütigen Erlaubniß des
 Vicecorporals, der, sobald er seine Hosen und sein Hemd angezogen hatte, kam, um
 uns zu sehen, quartierten wir uns im Zollhause ein, das, wie die übrigen
-Gebäude, eine kleine viereckige Hũtte von mit Rohr überdeckten Manglebaumpfählen
+Gebäude, eine kleine viereckige Hütte von mit Rohr überdeckten Manglebaumpfählen
 und ohne Dielen war. Die Soldaten klagten über Hunger; sie hatten nichts zu
 essen als ein wenig Mapira, und machten eben Palmwein, um ihre Gier zu dämpfen.
 Während wir auf ein Schiff warteten, hatten wir Muße, die Zeitungen und

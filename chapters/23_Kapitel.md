@@ -69,7 +69,7 @@ verfolgt, bis das Gift wirkt und das verwundete Thier niederfällt. Dann wird es
 geduldig bewacht, bis es stirbt — ein Theil des Fleisches um die Wunde herum
 wird weggeschnitten und alles übrige gegessen.
 
-:::: { .wrap-50 .caption .float-right}
+:::: { .w-50 .caption .align-center .float-right}
 ![<small>A. Gewöhnliche Form der eisernen Spitze eines Ajawapfeiles mit Widerhaken.<br/>B. Gewöhnliche Form eines Manganjapfeiles, an Spitze, Widerhaken und Hals vergiftet.<br/>C. Die Art, wie die Pfeilspitze in den Schaft eingefügt wird.<br/>D. Ganzer Pfeil, fast vier Fuß lang unbefiedert.</small>
 ](Neue_Missionsreisen_177.jpg "Pfeile"){#b177}
 ::::
@@ -146,7 +146,7 @@ lange Gras überwuchert alle Wege der Eingeborenen, und eine Species (Sanu),
 welche einen mit scharfen Widerhaken versehenen, einen Viertelzoll langen Samen
 hat, dringt in jede Pore wollener Kleidung ein und reizt die Haut in hohem
 Grade. Von seiner harten, scharfen Spitze aus legen sich eine Reihe winzig
-kleiner Widerhaken zurüũck und geben dem Samen überall, wo er eindringt, einen
+kleiner Widerhaken zurück und geben dem Samen überall, wo er eindringt, einen
 Halt: die unbedeutendste Berührung versetzt ihn in eine eindringende Bewegung,
 und die kleinen Haken verhindern ihn wieder herauszugehen. Diese Samen sind an
 manchen Stellen in solcher Menge vorhanden, daß die Innenseite des Strumpfes
@@ -191,7 +191,7 @@ angenehmen säuerlichen Getränkes.
 Als wir durch Malango, in der Nähe des obersten Kataraktes, zogen, war keine
 Seele zu sehen; aber als wir einer schönen, mit Bäumen bedeckten Insel gegenüber
 rasteten, drangen die munteren Stimmen spielender Kinder zu unseren Ohren — die
-Eltern waren vorthin geflohen zum Schutz vor den sclavenjagenden Ajawa, die noch
+Eltern waren dorthin geflohen zum Schutz vor den sclavenjagenden Ajawa, die noch
 immer durch die gelegentlichen Besuche der portugiesischen Agenten aus Tette
 bestürmt wurden. Anstatt unterhalb der Katarakten hinzuziehen, wichen uns die
 Ajawa jetzt aus, und setzten in der Nähe des Baumes, an welchen wir unser Boot
@@ -245,7 +245,7 @@ enthielt. Die durch die Sclavenjagd und Hungersnoth verursachte Verwüstung lag
 ringsum. Die Arbeitskrãfte waren aus dem großen Schirethale eben so vollständig
 hinweggerafft worden, wie vom Zambesi, wohin nur irgend portugiesische Ränke
 oder Gewalt sich erstreckten. Die fortwährenden Raubzüge Mariano's hatten
-Verderben und Verõdung südöstlich von uns bis zum Berg Clarendon hin verbreitet.
+Verderben und Verödung südöstlich von uns bis zum Berg Clarendon hin verbreitet.
 
 Während dies in unserem Rücken vorging, hatten die Tetteschen Sclavenjäger die
 Ajawa angestachelt, alle Manganja von den östlich von uns liegenden Hügeln zu
@@ -301,7 +301,7 @@ von einem elenden kleinen Einkommen leben — er mußte leben, und vielleicht
 Sclaven machen ganz gegen seinen Willen. Sein Name wird nicht in der Absicht
 hervorgehoben, um etwas Gehässiges auf seinen Charakter zu werfen. Die
 uneigennützige Freundlichkeit, welche er dem Dr. Meller und Anderen bewies,
-verbieten uns, seiner mit irgend etwas, das nach Lieblosigkeit ausfieht, zu
+verbieten uns, seiner mit irgend etwas, das nach Lieblosigkeit aussieht, zu
 gedenken.
 
 Andere Streifcorps waren nach Südosten von Senna gegangen und machten Sclaven,
@@ -317,7 +317,7 @@ Sclavenmacherei zu betreiben; denn an der Ostküste giebt es in Betreff der
 Einführung von Waffen und Kriegsvorrath keine Beschränkung. Die *Gesetze* sind
 gegen diese Artikel gerade so bündig, wie am Vorgebirge der guten Hoffnung; aber
 es steht damit wie mit den Gesetzen für die Abschaffung der Sclaverei, Niemand
-gehorcht ihnen — sie sind nur da, um sie in Europa anzuführen und sich selbft
+gehorcht ihnen — sie sind nur da, um sie in Europa anzuführen und sich selbst
 durch sie zu verherrlichen.
 
 In Erwägung aller dieser Umstände, nebst der Thatsache, daß wir den Rovuma zur
@@ -339,7 +339,7 @@ Wir hofften durch Einführung des Freihandels und des Christenthums sowohl den
 Portugiesen als den Afrikanern zu nützen. Leider können unsere Verbündeten nicht
 den geringsten Nutzen in irgend einer Maßregel erblicken, die nicht ihre eigene
 Emporhebung durch Niederstoßung Anderer in sich schließt. Die
-officielle^[^2300]^ Zeitung der Lissaboner Regierung hat uns seitdem wissen
+officielle<sup>[^2300]</sup> Zeitung der Lissaboner Regierung hat uns seitdem wissen
 lassen, „daß ihre Politik darauf gerichtet wurde, die anmaßenden Absichten der
 britischen Regierung auf die Herrschaft von Ostafrika zu vereiteln.“ Wir, die
 wir an Ort und Stelle waren und hinter den Coulissen standen, wußten, daß
@@ -378,7 +378,7 @@ ergriffen sie ihre Waffen und stürzten in der Voraussetzung, daß die Englände
 von einem Feind mit Feuerwaffen angegriffen würden, herbei, um dieselben zu
 befreien.
 
-Ungeachtet ihrer Weigerung, mit Arzenei für ihren Häuptsing zurückzukehren, und
+Ungeachtet ihrer Weigerung, mit Arzenei für ihren Häuptling zurückzukehren, und
 trotz mehrerer Anklagen, welche von den schwarzen Männern vom Vorgebirge der
 guten Hoffnung gegen sie erhoben wurden, aber nach einer langen sorgfältigen
 Untersuchung nicht bewiesen werden konnten, erinnerten wir uns an ihr edles
@@ -397,7 +397,7 @@ hin gezogen haben, durch welches wir passiren mußten; aber sobald wir über den
 Theil der Straße, der bereits fertig war, hinaus waren, begegneten unsere
 Fuhrleute Hindernissen, die durch Bäume und Rinnen bereitet wurden, und deren
 Ueberwindung durch Holzfällen und Herausziehen des Wagens vermittelst
-Blockrollen und Hebewerkzeugen eine Zeitwerschwendung gewesen sein würde. Wir
+Blockrollen und Hebewerkzeugen eine Zeitverschwendung gewesen sein würde. Wir
 ließen deshalb die Ajawa und Manganja holen, die sich in Chibisa's Dorfe
 niedergelassen hatten; sie nahmen das Boot auf ihre Schultern und trugen es
 flink in wenigen Tagen an allen Katarakten, bis auf einen, vorbei; da sie hier
@@ -422,7 +422,7 @@ dem letzten Katarakt vorbei zu tragen. Als dies gemeldet ward, wurden die Träge
 von den verschiedenen schattigen Bäumen hergerufen, unter welche sie ihre
 Zuflucht vor der Sonne genommen hatten. Es war mitten im Winter, aber die Sonne
 ist hier bei Tage stets heiß, wenn auch die Nächte kalt sind. Fünf
-Zambesimänner, die ihr ganzes Leben lang an große schwere Baumkähne gewõhnt
+Zambesimänner, die ihr ganzes Leben lang an große schwere Baumkähne gewöhnt
 worden waren, deren Hauptempfehlung darin bestehen soll, daß sie mit der vollen
 Kraft der Strömung ohne Beschädigung gegen einen Felsen rennen können — waren
 sehr begierig, zu zeigen, wie viel besser sie mit unserem Boot umgehen könnten
@@ -430,7 +430,7 @@ als die Makololo; als wir den Rücken wendeten, sprangen drei in dasselbe hinein
 und zwei schleppten es ein kleines Stück Weges hinauf; die Fluth ergriff seinen
 Bug, wir hörten einen Angstschrei, das Tau war in einem Augenblick aus ihren
 Händen, und dort lag es, der Boden nach oben; in einem Wirbel drehte es sich
-einoder zweimal um, und fort schoß es, wie ein Pfeil, die Katarakten hinab.
+ein- oder zweimal um, und fort schoß es, wie ein Pfeil, die Katarakten hinab.
 Einer von den Leuten rettete, indem er an's Ufer schwamm, eine Büchse. Die ganze
 Gesellschaft rannte mit aller Macht am Ufer hin, aber wir sahen unser Boot nie
 wieder.

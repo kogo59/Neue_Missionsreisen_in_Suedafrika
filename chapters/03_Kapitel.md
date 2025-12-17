@@ -3,7 +3,7 @@
 ::: justified
 
 :::: fs-xs
-Rückkehr von der Kebrabasa. — Eingeborene Musikanten und ihre Instru— mente. —
+Rückkehr von der Kebrabasa. — Eingeborene Musikanten und ihre Instrumente. —
 Unwissenheit in Tette. — Veränderungen, welche durch den nach der heißen
 Jahreszeit eintretenden Regen herbeigeführt werden. — Weihnachten in
 tropischem Gewande. — Die Ansichten ändern sich durch frühere Verbindungen in
@@ -28,7 +28,7 @@ harten Holzes von abwechselnder Breite und Dicke gemacht wird, die man auf hohle
 Flaschenkürbisse von verschiedener Größe legt und schlägt, um die Töne zu geben.
 Sie wurden mit einigen Stücken Kattun befriedigt und gingen fort.
 
-:::: { .wrap-100 .caption }
+:::: { .wrap-100 .caption .align-center }
 ![Frauen mit Wassertöpfen hören der Musik auf der Marimba, Sausa und Papagenopfeife zu.](Neue_Missionsreisen_068.jpg "Frauen mit Wassertöpfen hören der Musik auf der Marimba, Sausa und Papagenopfeife zu."){#b068}
 ::::
 
@@ -309,7 +309,7 @@ Sumpfluft (malaria) zu widerstehen, so wurde es doch bei der Heilung der
 Krankheit als unschätzbar erfunden, sobald Schmerzen im Rücken und in den
 Beinen, Kopfweh, Gähnen, schneller und bisweilen aussetzender Puls, merkbares
 Klopfen der Halsadern, mit überzogenen Augen, heißer Haut und belegter Zunge
-eintraten.^[^0300]^ Sehr sonderbar sind die Wirkungen des afrikanischen Fiebers
+eintraten.<sup>[^0300]</sup> Sehr sonderbar sind die Wirkungen des afrikanischen Fiebers
 auf gewisse Gemüther. Die Heiterkeit verschwindet, und der ganze geistige
 Horizont ist mit schwarzen Wolken des Trübsinnes und der Schwermuth überzogen.
 Der lebhafteste Scherz ist nicht im Stande, auch nur den Anschein eines Lächelns
@@ -348,7 +348,7 @@ hinaufzufahren versucht, aber wegen der undurchdringlichen Wasserlinsen (Pislia
 stratiotes) den Versuch wieder aufgegeben haben. Darauf hin behaupteten Manche,
 daß nicht einmal Baumkähne durch die Massen von Wasserpflanzen, welche seine
 Oberfläche bedeckten, ihren Weg erzwingen könnten. Andere indeß deuteten
-geheimer Weise an, daß nicht die Wasserlinsen es waren, was die Erpedition
+geheimer Weise an, daß nicht die Wasserlinsen es waren, was die Expedition
 zurücktrieb, sondern die vergifteten Pfeile, durch welche die feindlichen
 Eingeborenen die Portugiesen mit schwerem Verlust zurückschlugen. Niemand
 schickte eingeborene Handelsleute auf den Schire oder hatte Verkehr mit den
@@ -451,7 +451,7 @@ kleiner als bei den fünf Wasserfällen oberhalb desselben: mit diesen vergliche
 ist er in der That so klein, daß wir, nachdem wir dieselben entdeckt hatten, ihn
 gar nicht mit dazu rechneten.
 
-:::: { .wrap-100 .caption }
+:::: { .wrap-100 .caption .align-center }
 ![Mamvirafall, der erste oder niedrigste der Murchison'schen Wasserfälle.](Neue_Missionsreisen_085.jpg "FMamvirafall, der erste oder niedrigste der Murchison'schen Wasserfälle.."){#b085}
 ::::
 
@@ -628,7 +628,7 @@ zubereitet hatte, nicht genießen. Ihrer Majestät Brigg „Persian,“ unter de
 Commando des Lieutenant Saumarez, besuchte uns auf ihrem Wege nach dem Cap der
 guten Hoffnung, und obwohl sie selbst nicht viel Proviant hatte, gab sie uns
 doch großmüthig Alles, was sie entbehren konnte. Wir nahmen jetzt von unseren
-Kroomämern Albschied, da wir sie, wegen ihrer Unfähigkeit zu marschiren, bei
+Kroomännern Abschied, da wir sie, wegen ihrer Unfähigkeit zu marschiren, bei
 unseren Landreisen nicht brauchen konnten. Aus den Makololo, die außerdem, daß
 sie gute Wanderer waren, Holz hauen und das Schiff besorgen konnten, auch blos
 einheimische Rahrung verlangten, wurde eine Schaar ausgewählt.
@@ -673,7 +673,7 @@ der Generalgouverneur d'Almeida nichts vom Kongone wüßte und mit Anderen
 glaubte, der Zambesi ergieße sich bei Quillimane in's Meer. Se. Excellenz hatte
 sich bei ihm in Betreff der Richtigkeit von Dr. Livingstone's Karte in diesem
 Punkte erkundigt. Wir erwähnen das, weil die Portugiesen unlängst ernstlich
-nachzuweisen versucht haben, daß der Kongone ihren Selavenschiffen schon vorher
+nachzuweisen versucht haben, daß der Kongone ihren Sclavenschiffen schon vorher
 wohlbekannt war. Paul ist von gemischter Herkunft, scheint aber zu gedeihen, da
 er von den Nachkommen der Portugiesen in Ostafrika der einzige wirklich fette
 Mann ist. Es ist Schade, daß eine gewisse Klasse von Krankheiten, die sie selbst
@@ -684,6 +684,6 @@ daß sich hier in Bezug auf ihre Fortdauer als Race kein Schluß ziehen läßt.
 :::
 
 
-[^0300]: [Ein aus sechs bis acht Gran Jalappaharz, eben so viel Rhabarber und je drei Gran Calomel und Chinin zusammengesetztes Mittel, mit Cardamomentinctur in vier Pillen gebracht, beseitigte gewöhnlich alle Symptome in fünf bis sechs Stunden. Vier Pillen sind für einen Mann eine vollkommene Dosis — für eine Frau wird eine Pille genügen. Unsere Leute nannten sie „Aufreger,“ weil sie die Kraft besaßen, selbst die Niedergeschlagensten aufzuregen. Wenn ihre Wirkung sich verzögert, so gebe man einen Dessertlöffel voll Bittersalz. Chinin nach oder während der Wirkung der Pillen, in starken Dosen alle zwei bis drei Stunden gereicht, bis Taubheit oder Cinchonismus erfsolgt, vollendet die Cur. Die einzigen Fälle, in denen wir uns völlig hülflos fanden, waren diejenigen, in denen hartnäckiges Erbrechen eintrat. Wir hatten von Biscount Torrington einen ansehnlichen Vorrath „Warburgh'scher Fiebertropfen“ erhalten, eine Arznei, die in Indien sehr geschätzt ist, und sowohl in Rücksicht auf Sr. Gnaden Freundlichkeit, daß er uns das mit bedeutenden Kosten verknüpfte Mittel verschaffte, als auch aus Verlangen, ein Heilmittel ausfindig zu machen, auf das man sich bei dieser furchtbaren Krankheit verlassen könnte, versuchten wir es so gut damit, als wir konnten. Im schauernden Stadium verursachte es Wärme, heilte aber nicht. Ein alter Mann schien geheilt zu sein, starb aber einen oder zwei Tage darauf. Wir bedauern, daß wir es für Afrika nicht empfehlen können, obwohl wir wissen, daß es in Indien hochgeschätzt ist.]{.footnote}
+[^0300]: [Ein aus sechs bis acht Gran Jalappaharz, eben so viel Rhabarber und je drei Gran Calomel und Chinin zusammengesetztes Mittel, mit Cardamomentinctur in vier Pillen gebracht, beseitigte gewöhnlich alle Symptome in fünf bis sechs Stunden. Vier Pillen sind für einen Mann eine vollkommene Dosis — für eine Frau wird eine Pille genügen. Unsere Leute nannten sie „Aufreger,“ weil sie die Kraft besaßen, selbst die Niedergeschlagensten aufzuregen. Wenn ihre Wirkung sich verzögert, so gebe man einen Dessertlöffel voll Bittersalz. Chinin nach oder während der Wirkung der Pillen, in starken Dosen alle zwei bis drei Stunden gereicht, bis Taubheit oder Cinchonismus erfolgt, vollendet die Cur. Die einzigen Fälle, in denen wir uns völlig hülflos fanden, waren diejenigen, in denen hartnäckiges Erbrechen eintrat. Wir hatten von Biscount Torrington einen ansehnlichen Vorrath „Warburgh'scher Fiebertropfen“ erhalten, eine Arznei, die in Indien sehr geschätzt ist, und sowohl in Rücksicht auf Sr. Gnaden Freundlichkeit, daß er uns das mit bedeutenden Kosten verknüpfte Mittel verschaffte, als auch aus Verlangen, ein Heilmittel ausfindig zu machen, auf das man sich bei dieser furchtbaren Krankheit verlassen könnte, versuchten wir es so gut damit, als wir konnten. Im schauernden Stadium verursachte es Wärme, heilte aber nicht. Ein alter Mann schien geheilt zu sein, starb aber einen oder zwei Tage darauf. Wir bedauern, daß wir es für Afrika nicht empfehlen können, obwohl wir wissen, daß es in Indien hochgeschätzt ist.]{.footnote}
 
 

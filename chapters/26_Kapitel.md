@@ -60,7 +60,7 @@ daß wir dann von Morästen umringt und nicht im Stande sein würden, zu reisen.
 Das Hochwasser im Flusse konnte ein frühzeitiges oder so unbedeutend sein, daß
 es für den „Pioneer“ nur eine einzige Möglichkeit darbot, nach dem Meer
 hinabzufahren. Auch die Makololo wurden durch Krankheit und Mangel an Nahrung
-entmuthigt und sehnten sich natürlich, zur rechten Zeit zu ihren Feldern zurũck
+entmuthigt und sehnten sich natürlich, zur rechten Zeit zu ihren Feldern zurück
 zu sein, um säen zu können. Aber zu allen diesen und anderen Dingen kam noch
 hinzu, daß wir fühlten, wir würden nicht ehrlich mit der Regierung verfahren,
 wenn wir um eines kleinen Aufsehens willen es wagen wollten, den „Pioneer“ noch
@@ -138,7 +138,7 @@ Kleid zu kaufen, in welchem Du wie eine kleine Dame aussehen wirst.“ Wer diese
 Urvölker beobachtet, stößt fortwährend auf solche kleine alltägliche Züge der
 ächten Menschennatur.
 
-:::: { .wrap-80 .caption }
+:::: { .wrap-80 .caption .align-center }
 ![Eine mahlende Frau.](Neue_Missionsreisen_268.jpg "Eine mahlende Frau."){#b268}
 ::::
 
@@ -160,7 +160,7 @@ ursprünglichste Gestalt der Mühle; sie ist älter als die in morgenländischen
 Gegenden gebräuchliche, wo zwei Frauen auf einer Mühle mahlen, und mag diejenige
 gewesen sein, welche Sarah vor Alters benutzte, als sie die Engel bewirthete.
 
-:::: { .wrap-80 .caption }
+:::: { .wrap-80 .caption .align-center }
 ![Mühle der Eingeborenen zum Getreidemahlen.](Neue_Missionsreisen_269.jpg "Mühle der Eingeborenen zum Getreidemahlen."){#b269}
 ::::
 

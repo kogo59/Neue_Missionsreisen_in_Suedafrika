@@ -21,7 +21,7 @@ Morumbwa-Wasserfall. — Die Kebrabasa von einem Ende bis zum andern besichtigt.
 
 
 Am 8. September 1858 ankerte das Schiff auf der Höhe von Tette im Strome und Dr.
-Livingstone ging im Boote an's Land. Sobald die Makololo^[^0200]^ ihn erkannten,
+Livingstone ging im Boote an's Land. Sobald die Makololo<sup>[^0200]</sup> ihn erkannten,
 eilten sie an den Rand des Wassers und freuten sich sehr, daß sie ihn
 wiedersahen. Manche wollten ihn eiligst umarmen, Andere aber schrieen: „Rührt
 ihn nicht an, Ihr werdet ihm seine neuen Kleider verderben.“ Die fünf Vorsteher
@@ -39,7 +39,7 @@ wenige Meilen nordwärts, mit Namen Chisaka, der vor einigen Jahren alle
 portugiesischen Villas am nördlichen Ufer des Flusses wegbrannte. Sodann gingen
 sie zu Bonga, dem Sohne eines andern Halbkastenhäuptlings, der den Tette'schen
 Behörden Trotz bot und am Zusammenflusse des Zambesi und Luenya wenige Meilen
-unterhalb jenes Dorfes eine Pallisade hatte.^[^0201]^ Nachdem er die Makololo gefragt
+unterhalb jenes Dorfes eine Pallisade hatte.<sup>[^0201]</sup> Nachdem er die Makololo gefragt
 hatte, woher sie kämen, entgegnete er: „Warum kommt Ihr von meinem Feinde zu
 mir? Ihr habt Zaubermittel mitgebracht, um mich zu tödten.“ Sie betheuerten
 vergebens, daß sie nicht in's Land gehörten; sie wären Fremde und mit einem
@@ -301,7 +301,7 @@ liefernden Ströme, wie sie in Californien und Australien vorkommen, scheint man
 hier nie versucht zu haben, noch hat man zum Waschen irgend eine Vorrichtung
 außer gewöhnlichen hölzernen Becken benutzt.
 
-:::: { .wrap-100 .caption }
+:::: { .wrap-100 .caption .align-center }
 ![Ansicht eines Theiles der Kebrabasastromschnellen.](Neue_Missionsreisen_057.jpg "Ansicht eines Theiles der Kebrabasastromschnellen."){#b057}
 ::::
 
@@ -354,7 +354,7 @@ so weit wie Ziehbrunnen, ausgewaschen worden und waren so tief, daß mitunter,
 wenn sie durch überhangendes Geschiebe vor der Sonne geschützt waren, das Wasser
 in ihnen ganz kühl war. Manche dieser Löcher sind gerade hindurch gewaschen und
 nur die zunächst am Felsen liegende Seite blieb übrig, während die Seiten der
-Rinne des HochwasserFluthbettes so glatt geschliffen waren, als wären sie durch
+Rinne des Hochwasser-Fluthbettes so glatt geschliffen waren, als wären sie durch
 die Granitmühlen von Aberdeen gegangen. Um diese Glätte herzustellen, muß der
 Druck des Wassers ungeheuer sein. Kiesel hatte es in Spalten und Risse der
 Felsen ringsum so fest eingekeilt, daß sie, obgleich sie ganz locker aussahen,
@@ -374,7 +374,7 @@ nothwendig hielten. Wir fuhren deshalb den Fluß hinab, um neuen Proviant zu
 holen, und bereiteten uns zu einer ernsteren Besichtigung dieser Gegend vor.
 
 Als der Dampfer von der Barre zurückgekehrt war, machten wir uns am 22. November
-auf, um die Stromschnelle von Kebrabasa^[^0203]^ zu untersuchen. Am späten
+auf, um die Stromschnelle von Kebrabasa<sup>[^0203]</sup> zu untersuchen. Am späten
 Nachmittag des 24. erreichten wir den Fuß der Hügel wieder und ankerten im
 Strome. Kahnmänner schlafen nie auf dem Flusse, sondern bringen die Nacht stets
 am Ufer zu. Die Eingeborenen am rechten Ufer, in dem Lande, das Schidima heißt,
@@ -508,7 +508,7 @@ der Muskeln, wenn sie von Felsspitze zu Kiesel sprangen und sich um die
 Vorsprünge herumwanden, erschöpfte sie ungeheuer, und sie waren oft froh, wenn
 sie in dem Schatten kauerten, der von einem überhangenden und auf einem andern
 ruhenden Felsen gebildet wurde. Das Obdach führte die ganz besonders starke und
-überwältigende Reigung zum Schlafe. herbei, welche allzu viel Sonne bisweilen
+überwältigende Neigung zum Schlafe. herbei, welche allzu viel Sonne bisweilen
 verursacht. Dieser Schlaf heilt das, was ein Anfang zum Sonnenstich sein mag. In
 seinen ersten sanften Berührungen ließ er über das kochende Gehirn den Traum
 hinziehen, daß sie wahnsinnig geworden und sich als Mitglieder des Alpen-Clubs

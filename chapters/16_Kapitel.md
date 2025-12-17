@@ -92,7 +92,7 @@ In Makonde's Dorfe legten wir an, um einen Baumkahn zu kaufen. Sie hatten eben
 fröhliche Zeit, sangen, tanzten und tranken ihr außergewöhnlich starkes Bier. Es
 wurde uns sofort ein großer Topf voll gebracht. Der Häuptling sprach nur wenig;
 sein Redner besorgte für ihn das Sprechen und den Handel, und schien ihm zeigen
-zu wollen, wie gewandt er beides thun könne. Am Saume ves Flusses stehen viele
+zu wollen, wie gewandt er beides thun könne. Am Saume des Flusses stehen viele
 kleine Pallisaden; sie werden dort gebaut, um die Frauen, während sie ihre
 Wassertöpfe füllen, vor den Krokodilen zu schützen. Hierin sind sie den
 Portugiesen voraus; denn obgleich in Senna und Tette jährlich viele Frauen von
@@ -132,7 +132,7 @@ Batoka hatten früher in diese nämlichen Dörfer Einfälle gemacht. Seit einige
 Morgen erschien okla in großem Kummer, und Furcht; sein Diener Ranyen den Tag
 vorher verschwunden, und er war versichert, daß die Moloka ihn gefangen und
 umgebracht hatten. Einige Minuten später kam dieser Ranyeu mit zwei Männern an,
-die ihn, wähend er nach Sonnenuntergang umherirrte, gefunden, ihm Abendessen und
+die ihn, während er nach Sonnenuntergang umherirrte, gefunden, ihm Abendessen und
 Herberge gegeben, und ihn, indem sie seine Last für trugen, zu uns gebracht
 hatten.
 
@@ -237,7 +237,7 @@ Wellen preiszugeben und es in der Strömung hinabschwimmen zu lassen. Ehe wir
 eine passende Stelle fanden, wo wir die Nacht zubringen konnten, mußten wir noch
 so weit hinabfahren, daß die Eingeborenen schlossen, wir hätten nicht die
 Absicht, das Fleisch mit ihnen zu theilen, und nach dem Dorfe zurückkehrten. Wir
-schliefen zwei Nächte an dem Platze, wo das Flußpferd zerlegt wurde.^[^1600]^
+schliefen zwei Nächte an dem Platze, wo das Flußpferd zerlegt wurde.<sup>[^1600]</sup>
 Die Hühner nebst etwas Bier und einem Kuchen Salz, „um den Speisen einen guten
 Geschmack zu geben.“ Chilumbula sagte, die Elephanten plagten sie, indem sie die
 Baumwollenpflanzen wegfräßen; aber seine Leute schienen sich in guten
@@ -386,7 +386,7 @@ Baumkahn aus, fingen ihn auf, als er zum dritten Male an die Oberfläche
 heraufkam, und retteten ihn, obgleich er sehr erschöpft und ganz kalt war.
 
 Die Landschaft dieses Passes erinnerte uns an die Kebrabasa, wenn sie auch
-derselben sehr nachsteht. Ein Band verselben schwarzen glänzenden Glasur läuft
+derselben sehr nachsteht. Ein Band derselben schwarzen glänzenden Glasur läuft
 ungefähr zwei Fuß vom Rande des Wassers an dem Felsen hin. Auf manchem Hügel gab
 es keinen Halm Gras, da es das Ende der gewöhnlichen trockenen Jahreszeit war,
 die auf eine vorhergegangene strenge Dürrung folgte; doch waren die Hügelseiten
@@ -588,7 +588,7 @@ Baumwollenfleck brachen die Schafe ein, als sie in Blüthe stand, und fraßen
 Alles weg bis auf die Stengel; dann trugen die Krokodile die Schafe fort und die
 Eingeborenen stahlen die Hühner. Auch als Büchsenmacher waren sie nicht
 glücklicher. Ein portugiesischer Handelsmann, der von dem Scharfsinne englischer
-Matrosen eine sehr hohe Meinung hatte, zeigte ihnen eine Doppelbũchse und
+Matrosen eine sehr hohe Meinung hatte, zeigte ihnen eine Doppelbüchse und
 fragte, ob sie die *Bräunung*, die der Rost weggefressen hatte, wiederherstellen
 könnten. „Ich glaube, ich weiß, wie sich das machen läßt,“ sagte der Eine,
 dessen Vater ein Grobschmied war; „es ist ganz leicht; Sie brauchen nur die

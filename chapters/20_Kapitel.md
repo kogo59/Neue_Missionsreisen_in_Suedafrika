@@ -168,7 +168,7 @@ zu der Zeit unsere Diener. Kein weißer Mann am Bord konnte so wohlfeil
 einkaufen, wie diese Leute. Manchmal hatte ihre Beredtsamkeit einen eingeborenen
 Handelsmann überredet, für ein Stückchen von schmutzigen abgetragenen
 Kleidungsstücken zweimal so viel reinen neuen Calico zu verkaufen, was er nur
-kurz vorher verweigert hatte. Da „Scissors“^[^2000]^ in der Nacht vom Husten geplagt
+kurz vorher verweigert hatte. Da „Scissors“<sup>[^2000]</sup> in der Nacht vom Husten geplagt
 wurde, bekam er eine Steppdecke zum Geschenk, welche viel mit durchgemacht
 hatte. Einige Tage später bot sich eine gute Gelegenheit dar, Hacken
 einzukaufen; da trennte er beide Seiten ab, zerriß sie in zwölf Stücke und
@@ -186,7 +186,7 @@ Dann hielt er eine kurze Rede an seine Mannschaft, sagte ihnen, er wisse, was
 für Diebe sie wären, bäte sie aber inständigst, uns nicht zu bestehlen, da wir
 ihnen, wenn die Arbeit gethan sei, ein Geschenk an Kattun geben würden. „Die
 Eingeborenen des Landes,“ bemerkte er uns, „denken nur an drei Dinge: was sie
-essen und trinken sollen, wie viel Weiber sie haben kõnnen und was sie ihrem
+essen und trinken sollen, wie viel Weiber sie haben können und was sie ihrem
 Herrn stehlen, wo nicht, wie sie ihn ermorden wollen.“ Wenn er schlief, hatte er
 stets eine geladene Flinte an der Seite. Diese Ansicht mag auf Sclaven passen,
 aber sie paßt nach unserer Erfahrung entschieden nicht auf freie Männer. Wir
@@ -281,7 +281,7 @@ Boote den gehofften Sammelplatz am Ruo bequem in einer Woche erreichen könnten;
 aber der Schire hatte jetzt Hochwasser und war in seinem reißendsten Zustande,
 und sie brachten länger zu, ehe sie ungefähr die halbe Strecke hinaufkamen, als
 gehofft wurde, daß sie auf dem ganzen schiffbaren Theile des Flusses zubringen
-wũürden. Von dem Häuptling der Insel Malo an der Mündung des Ruo lonnten sie
+würden. Von dem Häuptling der Insel Malo an der Mündung des Ruo konnten sie
 nichts über den Bischof erfahren. „In sein Dorf sei nie ein weißer Mann
 gekommen,“ sagte er. Sie fuhren weiter vor bis nach Chibisa's Dorf, wobei sie in
 der Nacht schrecklich von Moskitos litten. Ihre Anstrengung, um gegen den
@@ -305,7 +305,7 @@ machten es möglich, wieder zum Boote zu kommen, und brachten die beiden
 beraubten und von Kummer gebeugten Damen zum „Pioneer“ zurück.
 
 Wir erfuhren, daß der Bischof, indem er einen kürzeren Weg zum Schire hinab zu
-finden wünschte, zwei Männer abßgeschickt hatte, um das Land zwischen Magomero
+finden wünschte, zwei Männer abgeschickt hatte, um das Land zwischen Magomero
 und dem Vereinigungspunkte des Ruo zu erforschen, und im December verließen die
 Herren Proctor und Scudamore mit einer Anzahl Manganja'scher Träger Magomero zu
 demselben Zwecke. Sie mußten dicht am Choroberge hingehen und dann, mit dem Berg
@@ -337,7 +337,7 @@ der Feind nicht auch Rindvieh hielt. Hätte man die Sache ganz in ihren Händen
 gelassen, so würden sie diesen Theil des Landes reingefegt haben; aber der
 Bischof hielt sie zurück und ging in offener Weise, indem er die Maßregel allen
 Eingeborenen als eine gerechte empfahl. Diese Ueberlegung gab jedoch den
-Verbrechern Gelegenheit, zu entkommen^[^2001]^.
+Verbrechern Gelegenheit, zu entkommen<sup>[^2001]</sup>.
 
 Die Missionare hatten Glück; das verbrecherische Dorf wurde weggebrannt und
 einige Schafe und Ziegen genommen, was nur als eine sehr milde Strafe für das
@@ -426,7 +426,7 @@ entschied. Diesem Zwecke widmete er viele Monate ernster Arbeit. Die Mission
 sollte sowohl das industrielle als das religiöse Element umfassen. Da nun der
 Weg auf dem Zambesi und Schire den einzigen gegenwärtig bekannten bildet, mit
 einer nur ein paar Tage in Anspruch nehmenden Landreise nach den Hochlanden, die
-fich bis zu einer unbekannten Ferne in den Continent hinein erstrecken, und da
+sich bis zu einer unbekannten Ferne in den Continent hinein erstrecken, und da
 es nicht wahrscheinlich war, daß im Gemüth eines Mannes von des Bischofs
 Mackenzie weiten Aussichten Eifersucht erwachen werde, — zumal dort Raum für
 Hunderte von Missionen ist, — so gewährten wir einem Gesandten der oben

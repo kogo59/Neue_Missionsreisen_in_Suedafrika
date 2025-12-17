@@ -313,7 +313,7 @@ muß eine Quelle des Einkommens haben, und da manche Häuptlinge, außer von
 Elfenbein oder Sclaven, keine erheben können, so ist diese Abgabe freier von
 Einwürfen als jede andere, die ein schwarzer Finanzminister etwa ersinnen
 könnte. Sie scheint jedoch bei den Portugiesen selbst entstanden zu sein und
-sich dann unter die angrenzenden Stänme verbreitet zu haben. Die Gouverneure
+sich dann unter die angrenzenden Stämme verbreitet zu haben. Die Gouverneure
 passen scharf auf jeden Elephanten auf, der etwa auf den Kronländereien
 abgeschlachtet wird, und verlangen von ihren Vasallen einen der Stoßzähne. Wir
 fanden das Gesetz bei keinem Stamme jenseits des Wirkungskreises portugiesischer
@@ -392,7 +392,7 @@ Grund sah, warum er von der feststehenden Gewohnheit abweichen wolle, hielt es
 für das Beste, steuerbare Weiße völlig eben so zu behandeln wie steuerbare
 Schwarze, und die Hälfte, die Sandia's Regierung gehörte, anzunehmen. Am
 Nachmittag kehrte der Häuptling mit seinen Räthen zurück, begleitet von seinem
-Weibe und mehreren anderen Frauen, die fünf Töpfe Bier trugen: drei, erlärte er,
+Weibe und mehreren anderen Frauen, die fünf Töpfe Bier trugen: drei, erklärte er,
 wären ein Geschenk für die weißen Männer, und die übrigen zwei seien zum Verkauf
 bestimmt. Die Frauen haben einen merkwürdig geraden Gang, wahrscheinlich weil
 sie von Kindheit auf gewöhnt worden sind, schwere Wassertöpfe auf ihren Köpfen
@@ -543,7 +543,7 @@ hatten, immer das Holz zu hauen, das der unersättliche Ofen des „Asthmatikers
 verlangte. Mbia, der ein arger Spaßvogel war, rief in gebrochenem Englisch
 lachend aus: „O, Kebrabasa gut, sehr gut; laßt nicht Schiff hinauf zu Sekeletu,
 zu viel Arbeit, Holz hauen, Holz hauen: Kebrabasa gut.“ Es wird allgemein
-berichtet und ge wöhnlich geglaubt, daß einst einmal ein Portugiese, Namens José
+berichtet und gewöhnlich geglaubt, daß einst einmal ein Portugiese, Namens José
 Pedra, — von den Eingeborenen Nyamatimbira genannt, Häuptling oder vielmehr
 Capitao von Zumbo, ein Mann von großem Unternehmungsgeist, aber geringer
 Humanität, — der gern ermitteln wollte, ob die Kebrabasa beschifft werden könne,

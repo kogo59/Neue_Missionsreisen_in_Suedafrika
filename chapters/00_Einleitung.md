@@ -66,7 +66,7 @@ südlichste Hafen, den sie besuchten, identisch mit dem in der Schrift erwähnte
 Ophir ist.
 
 Ostafrika ist seit den ältesten Zeiten von Handelsleuten aus Indien und dem
-rothen Meere besucht worden. Vasco da Gama (1497 - 1498) fand dergleichen fest
+rothen Meere besucht worden. Vasco da Gama (1497—1498) fand dergleichen fest
 angesiedelt in Mosambik, und nachdem er Indien erreicht hatte, kehrte er
 sehnsüchtig von Calicut nach Sofalla zurück und besuchte es im Jahre 1502. Als
 das Ophir der Schrift erwartete man in ihm die einträglichste aller

@@ -4,7 +4,7 @@
 
 :::: fs-xs
 Rückkehr zum Fahrzeug. — Durch den Saft des Maniol beinahe vergiftet —
-„Cassereep“ oder Manioksaft, ein volllommenes Erhaltungsmittel für Fleisch — Dr.
+„Cassereep“ oder Manioksaft, ein vollkommenes Erhaltungsmittel für Fleisch — Dr.
 Kirk geht von Chibisa's Dorf gerades Wegs nach Tette. — Großes Leiden auf der
 Reise. — Magnetische Beobachtungen von Charles Livingstone. — Schirezwieback. —
 Weizenmehl ist für europäische Magen nothwendig. — Jahreszeit zum Säen des
@@ -20,7 +20,7 @@ oder Klima? — Leichenbegängnisse. — Hochzeiten. — Steinkohle und Gold. �
 verschieben unsere Abreise nach dem Innern. — Wieder nach dem Kongone hinab. —
 Den 15. März stromaufwärts. — Ein zum Sclavenhandel benutzter geheimer Kanal. —
 Der Gouverneur von Quillimane wird gesandt, um den Kongone zu entdecken. — Mr.
-Sunley's Ver- such, am Flusse Angore gesetzlichen Handel zu beginnen. — Major
+Sunley's Versuch, am Flusse Angore gesetzlichen Handel zu beginnen. — Major
 Sicard in Mazaro. — Namentausch. — Seine Vortheile. — Der „Asthmatiker“ ist
 wirklich sehr schlecht. — Mr. Rae geht in dienstlicher Angelegenheit nach Hause.
 — Der Kwakwafluß. — „Komische Geschöpfe.“ — Mäuse. — Eine Hoffnung für fette
@@ -162,7 +162,7 @@ Wir mußten das Fahrzeug jede Nacht auf eine seichte Sandbank setzen; es wurde s
 sehr leck, daß es in tiefem. Wasser gesunken sein würde, und um es flott zu
 erhalten, mußte die Pumpe den ganzen Tag in Thätigkeit sein. Es fielen täglich
 heftige Regen, die in der Kajüte die gewöhnlichen nachtheiligen Wirkungen
-hervorbrachten; uud da wir nicht länger auf unsere Gefährten warten konnten, die
+hervorbrachten; und da wir nicht länger auf unsere Gefährten warten konnten, die
 zu Lande vom Schire nach Tette gegangen waren, fuhren wir nach dem Kongone hinab
 und zogen es zur Ausbesserung ans Ufer. Bald darauf traf Ihrer Majestät Schiff
 Lynx, unter dem Commando des Lieutenant Berkeley, mit Proviant ein; die Barre,
@@ -365,7 +365,7 @@ erhalten, obgleich ihm keine Dienste geleistet wurden. Von Zumbo nach Chicova
 wird das Elfenbein gewöhnlich in Baumkähnen herabgebracht; dort werden die
 Baumkähne verlassen und an der Kebrabasa vorbei nimmt Landtransport ihre Stelle
 ein. Jener Handelsmann dingte die Banyai, um das Elfenbein an der Stromschnelle
-vorbeizuschaffen. Sie kamen dahin überein, daß sie für jeden Gang vrei Yards
+vorbeizuschaffen. Sie kamen dahin überein, daß sie für jeden Gang drei Yards
 Kattun bekommen sollten, warfen aber unterwegs ihre Lasten wiederholt ab und
 verlangten immer mehr und mehr, bis sie ihre Forderungen auf zehn Yards gebracht
 hatten. „Ich hätte sie alle mit meinen eigenen Leuten können hernehmen und
@@ -456,7 +456,7 @@ einen Schulmeister. Wären wir unter ähnlichen widerwärtigen Umständen gebore
 worden — wir zittern vor dem Gedanken daran!
 
 
-:::: { .wrap-100 .caption }
+:::: { .wrap-100 .caption .align-center }
 ![Hochzeitszug zu Tette. <small>Braut und Bräutigam von Sclaven in Machillas oder Hängematten getragen. Begleitende Freunde. Ehrenpforte am Hause des Schwiegervaters. Sclaven schießen Gewehre ab, wie es bei Hochzeiten und Leichenbegängnissen gewöhnlich geschieht.</small>](Neue_Missionsreisen_159.jpg "Hochzeitszug zu Tette. <small>Braut und Bräutigam von Sclaven in Machillas oder Hängematten getragen. Begleitende Freunde. Ehrenpforte am Hause des Schwiegervaters. Sclaven schießen Gewehre ab, wie es bei Hochzeiten und Leichenbegängnissen gewöhnlich geschieht.</small>"){#b159}
 ::::
 

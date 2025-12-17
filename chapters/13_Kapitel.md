@@ -9,11 +9,11 @@ im Innern ist leicht im Vergleich zu der Sclaverei an der Küste. — Molele's
 Dorf. — Mangel an Lebensmitteln. — Tianyane identisch mit Ourebi. — Der Poku. —
 Dr. Livingstone wird über den Werth der Pferde befragt. — Mparira, Mokompa's
 Dorf. — Bienen ohne Stachel. — Wir nehmen einen Baumkahn, um nach Sescheke zu
-fahren. — Seleletu's Bersuch, die Quarantäne durchzusetzen. — Die Boten der
+fahren. — Seleletu's Versuch, die Quarantäne durchzusetzen. — Die Boten der
 Häuptlinge. — „Der Bewegsgrund,“ daß man muß lesen lernen. — „Freier Verkehr.“ —
 Instructionen der Eingeborenen. — Die Viehstand-Schule. — Sescheke, alte und
 neue Stadt. — Sekeletu. — Nichts kommt dem Rindfleisch gleich. — „Rindfleisch
-mit und Rindfleisch ohne.“ — Be- sucher. — Setkeletu's Aussatz und die ihn
+mit und Rindfleisch ohne.“ — Besucher. — Setkeletu's Aussatz und die ihn
 begleitenden Uebel. — Die Krankheit wird von den eingeborenen Doctoren für
 unheilbar erklärt. — Sie wird von einer Doctorin in die Hand genommen. — Den
 Doctoren Livingstone und Kirk übergeben. — Der Patient bessert sich. —
@@ -89,7 +89,7 @@ weite Aussicht auf eine ausgedehnte Fläche Wiese und Sumpf, die sich längs dem
 Ufer des Flusses hinziehen. Auf diesen Holmen grasen Heerden Büffel und
 Wasserböcke täglich in Sicherheit, da sie in den rohrbedeckten Sümpfen einen
 Zufluchtsort haben, in welchen sie bei nahender Gefahr enteilen können.
-Weiterhin ist der niedliche kleine Tianhyane oder Ourebi zahlreich vorhanden,^[^1300]^
+Weiterhin ist der niedliche kleine Tianhyane oder Ourebi zahlreich vorhanden,<sup>[^1300]</sup>
 und Heerden blauer Weldebeests oder gefleckter Gnus (Katoblepas Gorgon)
 unterhielten uns durch ihre phantastischen Bockssprünge. Sie bieten einen viel
 grimmigeren Anblick dar, als selbst der Löwe, sind aber ganz schüchtern. Wir
@@ -256,7 +256,7 @@ ununterbrochene dichte dunkle Wolke des schwarzen, zu Pulver verbrannten Bodens,
 mit dürrem Gras vermischt, von der Ebene hinweg Hunderte von Fußen in die Luft
 empor. Heerden der neuen Antilopen, Lechwé und Poku, nebst den Kokong oder Gnus
 und Zebras standen da und starrten uns an, als wir vorüberzogen. Die
-Luftspiegelung^[^1301]^ hob sie zuweilen bis halben Wegs zu den Wolken hinauf und
+Luftspiegelung<sup>[^1301]</sup> hob sie zuweilen bis halben Wegs zu den Wolken hinauf und
 verdrehte sie und die Palmgruppen in seltsame, übernatürliche Gestalten. Die
 ausgedehnten und reichen wagerechten Ebenen an den Ufern, längs deren Seiten wir
 hinruderten, würden eine ungeheuere Bevölkerung ernähren und könnten vom Zambesi
@@ -356,7 +356,7 @@ Schwester, Moriantsiane's Wittwe, deren Gatten Sekeletu umgebracht hatte,
 führen, und der große Häuptling, Sebituane, kannte sie alle, und wußte Alles,
 was sie thaten, und das ganze Land wurde weise regiert; aber jetzt weiß Sekeletu
 nichts von dem, was seine Untergebenen thun, und sie kümmern sich nicht um ihn,
-und die Macht der Makololo ist ihrem Untergange nahe.“^[^1302]^
+und die Macht der Makololo ist ihrem Untergange nahe.“<sup>[^1302]</sup>
 
 Die eingeborenen Doctoren hatten Sekeletu's Sache aufgegeben. Sie konnten ihn
  nicht curiren und erklärten die Krankheit für unheilbar. Eine alte Doctorin aus
@@ -567,4 +567,4 @@ einen wesentlichen Theil ihres Stabes bei sich habe.
 
 [^1301]: [Mirage.]{.footnote}
 
-[^1302]: [1865, vier Jahre später, als diese Ahnungen niedergeschrieben wurden, erhielten wir die Nachricht, daß sie alle in Erfüllung gegangen waren. Sekeletu starb im Anfang des Jahres 1864 — über die Nachfolge in der Häuptlingsschaft war ein Bürgerkrieg ausgebrochen; ein großer Haufe derer, die sich dem Oheim des verstorbenen Häuptlings, Impololo, der Reichsverweser war, widersetzten, zogen mit ihrem Bieh nach dem Ngami-See ab; es folgte ein Au, stand der schwarzen Stämme; Impololo wurde erschlagen, und das Reich, aus dem unter einer tüchtigen und scharfsinnigen Mission ungeheuer viel hätte gemacht werden können, hat das gewöhnliche Schicksal afrikanischer Eroberungen erlitten. Wir beklagen dieses Schicksal tief; denn was man auch den Makololo sonst für Fehler mit Recht aufbürden mag, sie gehörten nicht zur Klasse derer, die einander kaufen und verkaufen, was die Stämme, die auf sie gefolgt sind, thun.]{.footnote}
+[^1302]: [1865, vier Jahre später, als diese Ahnungen niedergeschrieben wurden, erhielten wir die Nachricht, daß sie alle in Erfüllung gegangen waren. Sekeletu starb im Anfang des Jahres 1864 — über die Nachfolge in der Häuptlingsschaft war ein Bürgerkrieg ausgebrochen; ein großer Haufe derer, die sich dem Oheim des verstorbenen Häuptlings, Impololo, der Reichsverweser war, widersetzten, zogen mit ihrem Vieh nach dem Ngami-See ab; es folgte ein Au, stand der schwarzen Stämme; Impololo wurde erschlagen, und das Reich, aus dem unter einer tüchtigen und scharfsinnigen Mission ungeheuer viel hätte gemacht werden können, hat das gewöhnliche Schicksal afrikanischer Eroberungen erlitten. Wir beklagen dieses Schicksal tief; denn was man auch den Makololo sonst für Fehler mit Recht aufbürden mag, sie gehörten nicht zur Klasse derer, die einander kaufen und verkaufen, was die Stämme, die auf sie gefolgt sind, thun.]{.footnote}

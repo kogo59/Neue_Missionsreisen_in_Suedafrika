@@ -57,7 +57,7 @@ In der Nähe der Mündung des Sinjére geht ein Damm von schwarzem basaltischen
 Felsen, Kakolole genannt, quer über den Fluß; aber er hat zwei offene Thorwege
 von sechzig bis achtzig Yards Breite, und das Fluthbett ist sehr tief.
 
-:::: { .wrap-80 .caption }
+:::: { .wrap-80 .caption .align-center }
 ![Eine Gruppe Flusspferde.](Neue_Missionsreisen_205.jpg "Eine Gruppe Flusspferde."){#b205}
 ::::
 
@@ -123,7 +123,7 @@ liegt. Der Hauer, der sich weniger fürchtet, hält seinen Rüssel nieder und
 giebt, durch dieses außerordentlich empfindliche Organ zur rechten Zeit gewarnt,
 auf seinen Weg Acht.
 
-:::: { .wrap-80 .caption }
+:::: { .wrap-80 .caption .align-center }
 ![Ameisengänge.](Neue_Missionsreisen_208.jpg "Ameisengänge."){#b208}
 ::::
 

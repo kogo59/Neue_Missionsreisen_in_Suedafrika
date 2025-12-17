@@ -163,7 +163,7 @@ Land, das mit demjenigen oberhalb des Falles gleiche Höhe hat, würde eben solc
 Standorte oder Gesichtspunkte darbieten, wie derjenige von der Eisenbahnbrücke
 aus ist, aber der nächste würde nur achtzig Yards anstatt zwei Meilen (der
 Entfernung der Brücke) von der Vorderseite des Wasserfalles liegen. Die Gipfel
-der Vorgebirge sind im Allgemeinen flach, eben und mit Bãumen besetzt. Der
+der Vorgebirge sind im Allgemeinen flach, eben und mit Bäumen besetzt. Der
 erste, mit der Basis nach Osten gerichtete ist an einer Stelle so schmal, daß es
 gefährlich sein würde, bis an sein äußerstes Ende zu gehen. Auf dem zweiten
 jedoch fanden wir einen breiten Rhinocerosweg und eine Hütte; aber wenn nicht
@@ -171,11 +171,11 @@ der Erbauer ein Eremit mit einem Lieblings-Rhinoceros war, so Wnnen wir nicht
 begreifen, um weswillen ein Thier oder ein Mensch je dorthin ging. Als wir an
 die Spitze dieses zweiten oftlichen Vorgebirges kamen, sahen wir den großen Fluß
 von tief meergrüner Farbe, der jetzt gewaltig zusammengedrängt war, wenigstens
-400 Fuß unter uns dahingleiten.^[^1200]^
+400 Fuß unter uns dahingleiten.<sup>[^1200]</sup>
 
 Wenn der Fluß niedrig ist, bietet die Garteninsel die beste Aussicht auf die
 Schlucht des großen Wasserfalles, sowie auch auf das gegenũberliegende
-Vorgebirge mit seinem aus großen, inmergrünen Bãumen bestehenden Haine und
+Vorgebirge mit seinem aus großen, inmergrünen Bäumen bestehenden Haine und
 seinen prachtvollen, drei Viertel eines Kreises einnehmenden Regenbogen, die,
 zwei, drei und bis weilen sogar vier an Zahl, auf der vorderen Seite des
 ungeheuern senkrechten Felsens ruhen, an welchem immerwährend kleine
@@ -274,7 +274,7 @@ Wasserfälle sah. Die Flußpferde hatten die Bäunie, welche damals gepflanzt
 wurden, zerstört, und obgleich wieder ein starker Pfahlzaun hergestellt und von
 Frischem lebende Orangenbäume gepflanzt, Kaschunüsse und Kaffeesamen eingelegt
 wurden, so befürchten wir doch, daß die Beharrlichkeit der Flußpferde das
-Hinderniß des Zaunes überwinden wird.^[^1201]^ Um europäische Obstbäume zu
+Hinderniß des Zaunes überwinden wird.<sup>[^1201]</sup> Um europäische Obstbäume zu
 ziehen, würde ein Missionar dort seinen Sitz haben müssen. Die Zeit, in welcher
 der Pfirsich und die Aprikose zur Blüthe kommen, ist ungefähr das Ende der
 trockenen Jahreszeit, und künstliche Bewässerung ist nothwendig. Die Batoka, die

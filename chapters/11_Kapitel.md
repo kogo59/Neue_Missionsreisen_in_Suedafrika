@@ -284,7 +284,7 @@ Hochebene zu, der den Namen Mataba führt, und zurückblickend sahen wir den
 ganzen Weg quer über das Zambesithal bis zu dem, einige dreißig Meilen
 entfernten hohen Bergrücken, der, von Maschona, einem Lande in Südosten
 herkommend, nach Nordwesten läuft, um sich mit dem Rücken zu vereinigen, an
-dessen Winkel die Victoriäfälle liegen, und sich dann von demselben Punkte aus
+dessen Winkel die Victoriafälle liegen, und sich dann von demselben Punkte aus
 weit nach Nordosten biegt. Vor nur wenigen Jahren waren diese ausgedehnten
 Hochlande von den Batoka bevöllkert. Zahlreiche Viehheerden lieferten Milch in
 Ueberfluß, und der fette Boden lohnte reichlich die Arbeit des Landmanns. Jetzt
@@ -297,7 +297,7 @@ bedeckten Plätzen gänzlich verlassener Batoka-Dörfer vorüberzogen, trafen wi
 keine einzige Person an Die Batoka wurden durch die Einfälle Moselekatse's und
 Sebetuane's aus ihrem herrlichen Lande vertrieben. Mehrere Betschuana- und
 Basutu-Stämme, die vor dem Zulu- oder Matebele-Häuptling Moselekatse flohen,
-erreichten den Zambesi oberhalb der Wasserfälle. Da fie aus einem Lande kamen,
+erreichten den Zambesi oberhalb der Wasserfälle. Da sie aus einem Lande kamen,
 das keine Flüsse hat, so konnte keiner von ihnen schwimmen, und ein Stamm, die
 Bamangwato genannt, der über den Zambesi zu setzen wünschte, wurde, Männer und
 Frauen getrennt, von einem der Batoka-Häuptlinge nach verschiedenen Inseln
@@ -361,7 +361,7 @@ Behauptung, der Doctor sei angekommen und habe nach ihnen geschickt, daß sie
 sollten nach Senna hinabkommen, verlockt, einen portugiesischen Feldzug gegen
 Mariano mitzumachen. Als sie fanden, daß sie zum Kampfe verleitet werden
 sollten, entfernten sie sich, nachdem sie gesehen hatten, wie ein Officier mit
-einer großen Anzahl Tette'scher Selaven getödtet wurde.
+einer großen Anzahl Tette'scher Sclaven getödtet wurde.
 
 Die Batoka hatten einige Begriffe von Civilisation bekommen, indem sie
 mannichfache Obst- und Oelsamen liefernde Bäume des Landes anpflanzten und
@@ -411,7 +411,7 @@ dem Geiste seines Vaters gehöre, der ihm helfe, wenn er das Flußpferd erlege.
 Ein Anderer weigerte sich, als der Handel um seinen Baumkahn schon dem Abschluß
 nahe war, den Verkauf zu vollziehen, weil er auf einem Aste des Baumes, unter
 dem er stand, eine große Schlange sah, indem er behauptete, dieselbe sei der
-Geist seines Vaters, der gekonimen wäre, um dagegen zu protestiren.
+Geist seines Vaters, der gekommen wäre, um dagegen zu protestiren.
 
 Manche Batoka-Häuptlinge müssen Männer von bedeutendem Unternehmungsgeist
 gewesen sein. Das Land des einen, im westlichen Theile dieser Gegend, war im
@@ -458,7 +458,7 @@ Herzen zu erquicken, nebst Kürbissen, Bohnen und Tabak, damit wir „weder hung
 noch durstig schlafen sollten.“
 
 Als wir vom Kafue nach dem Zungwe reisten, passirten wir häufig im Laufe eines
-Tagemarsches mehrere Dörfer. Am Abend kamen Deputirte von den Dorfern, in denen
+Tagemarsches mehrere Dörfer. Am Abend kamen Deputirte von den Dörfern, in denen
 wir nicht über Nacht bleiben konnten, mit freigebigen Geschenken an
 Lebensmitteln. Es würde sie gekränkt haben, wenn sie Fremde hätten vorbeiziehen
 lassen, ohne daß sie ihre Gastfreundschaft genossen. Wiederholt wurden wir von
@@ -547,7 +547,7 @@ Resonanzboden dienenden Flaschenkürbiß (a) gespielt wird, giebt es einen
 stärkeren Ton. Stücke Muschelschalen und Blech werden hinzugefügt, um eine
 klimpernde Begleitung zu bilden, und der Flaschenkürbiß (b) wird auch verziert.
 
-:::: { .wrap-80 .caption }
+:::: { .wrap-80 .caption .align-center }
 ![a. Flaschenkürbiß als Resonanzboden. b. Flaschenkürbiß, mit Figuren verziert. c. Sansa.](Neue_Missionsreisen_262.jpg "a. Flaschenkürbiß als Resonanzboden. b. Flaschenkürbiß, mit Figuren verziert. c. Sansa."){#b262}
 ::::
 
@@ -710,7 +710,7 @@ Die Schriften von Harris und Gordon Cumming enthalten so ausführliche und
 anekelnde Details von unterschiedlosem Hinschlachten der wilden Thiere, daß man
 sich wundert, seitdem fast jedes über Afrika handelnde Buch mit schwachen
 Nachahmungen jener Märchen von großen Jägern beschmiert zu sehen. Manche
-erzählen voñ Entrinnungen aus Situationen, von denen, so weit wir die Natur der
+erzählen von Entrinnungen aus Situationen, von denen, so weit wir die Natur der
 Thiere kennen, zu glauben, daß sie auch nur in Träumen vorgekommen sind, eine
 peinliche Ueberspannung der christlichen Liebe verlangt, und Andere von Thaten,
 die Einen zu dem Schlusse führen, daß das Verhältniß der Leute, die „zu Metzgern
@@ -718,7 +718,7 @@ geboren“ sind, in der Bevölkerung so groß ist, wie das der Wirthshausbesitze
 den Bewohnern in Glasgow.
 
 Der Betrag des Elfenbeins, das auf die Märkte der Welt gebracht wird, zeigt, daß
-jährlich gegen 30,000 Elephanten umgebracht werden.^[^1100]^ Es ist höchst
+jährlich gegen 30,000 Elephanten umgebracht werden.<sup>[^1100]</sup> Es ist höchst
 wahrscheinlich, daß, da die bedeutende Größe der Ohren, wie sie auf altrömischen
 Münzen dargestellt ist, beweist, daß die von jenem Volke benutzten Thiere zur
 afrikanischen, und nicht zur asiatischen Art gehört haben, dieselben von den
@@ -739,7 +739,7 @@ anderthalb Meilen weit und blieb dann stehen, um sich an einen Baum zu lehnen.
 Einige von unseren Leuten näherten sich und feuerten eine Salve ab; sie ging
 einige Schritte weiter, schüttelte ihren Rüssel, sank sanft auf ein Knie, dann
 auf das andere; die beiden Hinterbeine beugten sich langsam, und sie
-fiel.^[^1101]^ Wir lesen es jetzt mit Schmerz. Unsere Leute erhoben ein
+fiel.<sup>[^1101]</sup> Wir lesen es jetzt mit Schmerz. Unsere Leute erhoben ein
 freudiges Jauchzen, stürzten sich mit wildem Siegesgeschrei auf das gefallene
 Thier und tanzten um dasselbe herum. Als wir uns näherten, kam Tuba Mokoro auf
 den Doctor zu, dessen Jacob'sche Sprengkugel dem Thiere eine tödtliche Wunde
@@ -844,7 +844,7 @@ die Seite gestellt wird. Er nahm es sicherlich nicht übel, wie aus dem
 Gegengeschenk hervorging, das er uns gab. Es bestand aus einer reichen Lieferung
 an Mehl, Milch und einem Ochsen. Er hat eine große Heerde Vieh und eine Strecke
 herrliches Weideland an dem schönen Lekonestrom. Selbst in Innerafrika überkommt
-einen ein Heimathsgefühl, wenn man einmal etwas wiehr Vieh friedlich auf den
+einen ein Heimathsgefühl, wenn man einmal etwas mehr Vieh friedlich auf den
 Wiesen grasen sieht. Die Tsetse bewohnt die Bäume, welche das Weideland im
 Westen begrenzen. Sollte daher der Hirt seine Pflicht vergessen, so möchte wohl
 das sich verirrende Vieh gänzlich verloren sein. Die Frauen dieses Dorfes sind
@@ -894,45 +894,45 @@ Elephanten-Stoßzähne, Wallroß- und Flußpferd-Zähne:<br />
     |1857| 8,890| 421,318|
     |1858| 12,279 |410,608|
     |1859| 10,821 |336,147|
-    |1860| 10.854 |332,166|
-    |1861| 11,,168 |297,491|
+    |1860| 10,854 |332,166|
+    |1861| 11,168 |297,491|
     |1862| 11,605 | 262,962|
     |1863| 9,290| 256,069|
     ||8:85,768|2,660,268|
-    |Durchschnitt| 10,721| 332,533|<br />„Die Einfuhr der Flußpferd- und Wallroßzähne beträgt in einem Jahre kaum mehr als 10 bis 12 Tonnen; sie ist daher kaum der Berücksichtigung werth. Die Schwierigkeit liegt darin, zu welchem Durchschnittsgewicht man die Stoßzähne annehmen soll. 30 Pfund kann als ein schöner Durchschnitt betrachtet werden. Wenn die Afrikaner den Durchschnitt auf nicht viel mehr als 20 bis 25 Pfund berechnen, während er für Zanzibar und Mosambik 60 bis 80 Pfund betragen würde, so würde dies, den Durchschnitt zu 30 Pfund angenommen, ein jährliches Abschlachten von 20,000 Elephanten in sich schließen, und nimmt man dazu die östlichen und übrigen Märkte, so kann die Zahl der Thiere, die jedes Jahr erlegt werden, um Elfenbein zu liefern, recht gut auf 30,000 geschätzt werden.“{.footnote}
+    |Durchschnitt| 10,721| 332,533|<br />„Die Einfuhr der Flußpferd- und Wallroßzähne beträgt in einem Jahre kaum mehr als 10 bis 12 Tonnen; sie ist daher kaum der Berücksichtigung werth. Die Schwierigkeit liegt darin, zu welchem Durchschnittsgewicht man die Stoßzähne annehmen soll. 30 Pfund kann als ein schöner Durchschnitt betrachtet werden. Wenn die Afrikaner den Durchschnitt auf nicht viel mehr als 20 bis 25 Pfund berechnen, während er für Zanzibar und Mosambik 60 bis 80 Pfund betragen würde, so würde dies, den Durchschnitt zu 30 Pfund angenommen, ein jährliches Abschlachten von 20,000 Elephanten in sich schließen, und nimmt man dazu die östlichen und übrigen Märkte, so kann die Zahl der Thiere, die jedes Jahr erlegt werden, um Elfenbein zu liefern, recht gut auf 30,000 geschätzt werden.“
 
-[^1101]: Der Elephant war ein Weibchen von gewöhnlicher Größe. Ihre Maaßverhãltnisse können vielleicht Manchen interessiren:
+[^1101]: Der Elephant war ein Weibchen von gewöhnlicher Größe. Ihre Maaßverhältnisse können vielleicht Manchen interessiren:
 
-    ||Fuß| Zoll|
-    |---|---:|---:|
-    |Höhe am Widerrist|8|2½|
-    |Umfang des Vorderfuß|3|7|
-    |Länge von der Spitze des Rüssels bis zum Auge|6|10|
-    |Von einem Auge bis zum anderen|0|14½|
-    |Vom Auge bis zum Gehörgange|1|3½|
-    |Vom Auge bis zum unteren Kinnbacken|0|16¾|
-    |Vom Auge bis zur Einfügung des Schwanzes|9|10|
-    |Von der Einfügung bis zum Ende des Schwanzes|3|4½|
-    |Halber Umfang an der Mitte der Brust|6|0|
-    |Halber Umfang des Bauches bis zur Mitte des Rückens|7|1½|
-    |Vom Nacken bis zum Vorderfuß|5|1|
-    |Vom Bauche bis zum Hinterfuß|3|3½|
-    |Vom Gehörgange horizontal bis zum äußeren Rande des Ohres|2|9|
-    |Diagonale Breite des Ohres|4|3|
-    |Höhe vom Hinterfuße aus|7|6|
-<br />Maaßverhältnisse eines ausgewachsenen fötalen Elephanten, der vier Mutterkuchen mit Cotyledonen hatte und ziemlich ausgetragen war: 
+    |                                                           | Fuß | Zoll |
+    |-----------------------------------------------------------|----:|-----:|
+    | Höhe am Widerrist                                         |   8 |   2½ |
+    | Umfang des Vorderfuß                                      |   3 |    7 |
+    | Länge von der Spitze des Rüssels bis zum Auge             |   6 |   10 |
+    | Von einem Auge bis zum anderen                            |   0 |  14½ |
+    | Vom Auge bis zum Gehörgange                               |   1 |   3½ |
+    | Vom Auge bis zum unteren Kinnbacken                       |   0 |  16¾ |
+    | Vom Auge bis zur Einfügung des Schwanzes                  |   9 |   10 |
+    | Von der Einfügung bis zum Ende des Schwanzes              |   3 |   4½ |
+    | Halber Umfang an der Mitte der Brust                      |   6 |    0 |
+    | Halber Umfang des Bauches bis zur Mitte des Rückens       |   7 |   1½ |
+    | Vom Nacken bis zum Vorderfuß                              |   5 |    1 |
+    | Vom Bauche bis zum Hinterfuß                              |   3 |   3½ |
+    | Vom Gehörgange horizontal bis zum äußeren Rande des Ohres |   2 |    9 |
+    | Diagonale Breite des Ohres                                |   4 |    3 |
+    | Höhe vom Hinterfuße aus                                   |   7 |    6 |
 
-    ||Fuß| Zoll |
-    |---|---:|---:|
-    |Höhe am Widerrist|2|6|
-    |Umfang des Vorderfußes|1|1|
-    |Höhe am Hinterbein|2|5|
-    |Von der Spitze des Rüssels bis zur Spitze des Schwanzes|6|0|
-    |Von der Spitze des Rüssels bis zum Auge|1|7½|
-    |Vom Auge bis zum Gehörgange|0|7½|
-    |Horizontaler Durchmesser des Ohres vom Gehörgange aus|0|8|
-    |Diagonale Breite des Ohres|1|3½|
-    |Halber Umfang der Brust|1|7|
-    |Halber Umfang des Bauches|1|8½|
-    |Länge der Nabelschnur|3|7|{.footnote}
+    Maaßverhältnisse eines ausgewachsenen fötalen Elephanten, der vier Mutterkuchen mit Cotyledonen hatte und ziemlich ausgetragen war: 
 
+    |                                                         | Fuß | Zoll |
+    |---------------------------------------------------------|----:|-----:|
+    | Höhe am Widerrist                                       |   2 |    6 |
+    | Umfang des Vorderfußes                                  |   1 |    1 |
+    | Höhe am Hinterbein                                      |   2 |    5 |
+    | Von der Spitze des Rüssels bis zur Spitze des Schwanzes |   6 |    0 |
+    | Von der Spitze des Rüssels bis zum Auge                 |   1 |   7½ |
+    | Vom Auge bis zum Gehörgange                             |   0 |   7½ |
+    | Horizontaler Durchmesser des Ohres vom Gehörgange aus   |   0 |    8 |
+    | Diagonale Breite des Ohres                              |   1 |   3½ |
+    | Halber Umfang der Brust                                 |   1 |    7 |
+    | Halber Umfang des Bauches                               |   1 |   8½ |
+    | Länge der Nabelschnur                                   |   3 |    7 |

@@ -166,7 +166,7 @@ sie ein sprechendes Zeugniß, daß unsere Religion nichts von ihrer ursprünglic
 Macht verloren hat. Nach unserer Ansicht fehlt nichts, um den Rechtsgrund vieler
 jener Männer zu vervollständigen, mit den Heiligen und Märtyrern der Urzeiten in
 eine Reihe gestellt zu werden. Mehr Erfahrung über das Klima hat seitdem die
-Sterblichkeit bedentend vermindert, und im Zahre 1861 gab es auf der Westküste
+Sterblichkeit bedeutend vermindert, und im Zahre 1861 gab es auf der Westküste
 einhundertundzehn Hauptmissionsstationen, dreizehntausend Schüler in den Schulen
 und neunzehntausend Mitglieder in den Kirchen.
 
@@ -457,7 +457,7 @@ genommen hatten, am 30. April von Zanzibar auf.
 Unsere ganze Mannschaft bestand aus sieben eingeborenen Zambesianern, zwei
 Knaben und vier Europäern, nämlich einem Heizer, einem Matrosen, einem
 Zimmermann, deren Namen bereits erwähnt worden sind, und Dr. Livingstone als
-Steuermann. Die „Lady Nyassa“ hatte sich als ein gutes Seebot gezeigt. Die
+Steuermann. Die „Lady Nyassa“ hatte sich als ein gutes Seeboot gezeigt. Die
 Eingeborenen hatten sich als Hauptmatrosen erwiesen, obgleich kein einziger von
 ihnen, ehe sie als Freiwillige eintraten, je das Meer gesehen hatte. Sie waren
 keine auserlesenen Leute, sondern wurden, als wir ein Dutzend bezahlten, die wir

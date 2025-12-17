@@ -167,7 +167,7 @@ Centralafrika hin durch ein Verfahren, welches ihre eigene Habsucht befriedigt,
 wenige Proselyten machen, drei kleine Abtheilungen der zum Christenthum
 Belehrten, die Afrikaner im Süden, in Westindien und auf der Westküste von
 Afrika gegenwärtig zur Erhaltung und Ausbreitung ihrer Religion jährlich mehr
-als 15,000 Pfund Sterling beitragen.^[^2500]^ Diejenige Religion, welche die
+als 15,000 Pfund Sterling beitragen.<sup>[^2500]</sup> Diejenige Religion, welche die
 Selbstsucht des menschlichen Herzens in solchem Grade überwindet, muß eine
 göttliche sein.
 
@@ -758,7 +758,7 @@ In der That, Afrika ist der älteste Continent in der Welt. „Es ist unstreitig
 ein großartiger Charakter einer Gegend, wenn sie, unberührt von allen
 Veränderungen, außer denjenigen, welche von atmosphärischen und meteorischen
 Einflüssen abhängig sind, ihre alten terrestrischen Verhältnisse eine sehr lange
-Periode hindurch beibehalten hat.^[^2501]^
+Periode hindurch beibehalten hat.<sup>[^2501]</sup>
 
 Nach dem gegenwärtigen Stande unserer Kenntniß hatten die Afrikaner nie eine
 steinerne Periode. Der Beweis dafür ist rein negativ, aber von derselben

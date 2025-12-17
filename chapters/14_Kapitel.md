@@ -6,7 +6,7 @@
 :::: fs-xs
 Sekeletu und unsere Geschenke. — Seine Vorstellung von der Anwendung der
 Artillerie. — Sebituane's Schwester beschreibt das erste Auftreten des Fiebers.
-— Die Makololo sind der intelligenteste aller Stämme, die wir ge— sehen haben. —
+— Die Makololo sind der intelligenteste aller Stämme, die wir gesehen haben. —
 Die Makololo des alten und jungen Afrika. — Die Frauen, ihr Aussehen und ihr
 Schmuck. — Folgen der Vielweiberei. — Die Achtbarkeit wird nach der Anzahl der
 Weiber berechnet. — Scheinbarer, aber nicht wirklicher Kauf der Weiber. — Feine
@@ -263,7 +263,7 @@ mit den Makololo zu beleben, Jedem ein reichliches Geschenk an Kleidern gegeben.
 Ehe sie uns besuchten, legten sie Alle diese neuen Kleider an, und waren
 sicherlich besser angezogen, als wir selbst. Sie trugen gut gewaschene und
 gestärkte Hemden, Röcke und weite Beinkleider, weiße Socken und patentlederne
-Stiefeln, auf dem Kopfe eine rothe KilmarnockKappe und auf derselben einen
+Stiefeln, auf dem Kopfe eine rothe Kilmarnock-Kappe und auf derselben einen
 braunen breitrandigen Hut. Sie unterhielten sich lange mit unseren Leuten über
 die wunderbaren Dinge, die sie gesehen hatten, und stimmten Alle darin überein,
 daß die Makololo, die zu Hause verweilten, reines Wildpret oder Thiere des
@@ -533,14 +533,14 @@ gerieben, ein sehr geschätztes Mittel. Ein Schlüssel, der eine Zeit lang auf d
 Loch gedrückt wird, zieht das Gift heraus, und wenn man keine Ipecacuanha bei
 der Hand hat, wird ein wenig Pulver, das auf der Stelle angezündet wird,
 dasselbe thun. Auf den Ebenen sah man sehr große Heerden Kualatas und viele
-schwarze Böcke, obwohl sie sich gewöhnlich auf den Hügeln aufhalten.^[^1400]^
+schwarze Böcke, obwohl sie sich gewöhnlich auf den Hügeln aufhalten.<sup>[^1400]</sup>
 Sekeletu's Gesundheit besserte sich während unseres Besuches bedeutend; die
 melancholischen Ahnungen verließen seinen Geist und er wurde heiter, weigerte
 sich aber entschieden, seinen Schlupfwinkel zu verlassen und sich öffentlich zu
 zeigen, bis er vollkommen geheilt sei und das wieder erlangt habe, was er als
 sein gutes Aussehen betrachtete. Auch fürchtete er, manche von denen, die ihn
 ursprünglich behext hätten, möchten noch immer unter dem Volke sein und unsere
-Heilmittel unwirksam machen.^[^1401]^
+Heilmittel unwirksam machen.<sup>[^1401]</sup>
 
 Da wir einen andern Dampfer erwarteten, der im November auf dem Kongone sein
 sollte, so war es uns unmöglich, länger als einen Monat in Sescheke zu bleiben.

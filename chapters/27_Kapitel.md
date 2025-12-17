@@ -241,7 +241,7 @@ und war dreißig Meilen weit vergleichungsweise eben. Die Entfernung vom Gipfel
 des Plateaus bis zum unten liegenden Thale betrug ungefähr fünfzig Meilen, und
 wenn wir Bewohnern begegneten, die von den Ebenen herkamen, um in den Wäldern
 wilde Früchte zu sammeln, hielten sie es für eine große Neuigkeit, daß wir
-wirklich lebendige Mazitu gesehen hatten. Der Disirict, in welchen wir
+wirklich lebendige Mazitu gesehen hatten. Der District, in welchen wir
 hinabstiegen, wurde noch immer Bango genannt, und ein schöner Strom, Namens
 Furisa, floß durch denselben in den See. Hier hatten die Bewohner große Felder
 in Aehren stehenden Mais, der in der trockenen Jahreszeit mit Hülfe des Wassers,
@@ -365,7 +365,7 @@ einflößt, ist so groß, daß wir bisweilen zweifelten, ob die hiesigen Mazitu
 Furcht zu Nutze machten und, indem sie Schilde annähmen, vorgäben, daß sie zu
 jener Nation gehörten.
 
-:::: { .wrap-100 .caption }
+:::: { .wrap-100 .caption .align-center }
 ![Maravibogen.](Neue_Missionsreisen_284.jpg "Maravibogen."){#b284}
 ::::
 
@@ -388,7 +388,7 @@ und künstlichen Horizont — die Schwere des Quecksilbers — das unsere Leute
 derselben Art nachgegrübelt, das wir in der ersten Zeit an irgend einem neuen
 und wunderbaren Dinge nehmen würden. In vielen hundert Fällen, in denen wir mit
 einer Laterne da saßen und nach den Sternen sahen, erregten wir, so viel wir
-wissen, nicht ein einziges Mal den Verdacht, daß wir mit der Ausũbung der
+wissen, nicht ein einziges Mal den Verdacht, daß wir mit der Ausübung der
 Hexerei beschäftigt wären. Da wir von dem allgemeinen Glauben an Zauberer und
 Hexen vollkommen unterrichtet waren, so hat es uns oft gewundert, daß nie eine
 Anklage zu unseren Ohren gelangte, daß dieses „ausländische Wasser“ zu etwas
@@ -564,7 +564,7 @@ gegenwärtigen Vollkommenheit gebracht hat, verbessert worden sind. Katosa
 beklagte sich, daß diese Oertlichkeit seinem früheren Orte am Pamalombe so sehr
 nachstand; dort hatte er das ganze Jahr hindurch Mais auf den verschiedenen
 Stufen des Wachsthums. Uns jedoch schien es, daß, wenn er Löcher gegraben und
-sich die unten befindliche Feuchtigleit zu Nutzen gemacht hätte, es ihm recht
+sich die unten befindliche Feuchtigkeit zu Nutzen gemacht hätte, es ihm recht
 gut gelungen sein würde, in dieser trockensten Zeit des Jahres Getreide in die
 Höhe zu bringen. Die Makololo machten die Bemerkung, daß „hier der Mais keine
 Jahreszeit habe,“ womit sie meinten, daß das ganze Jahr zu seinem Wachsthum und
@@ -587,7 +587,7 @@ gute Bogenschützen sein; aber durch das ganze Land hin, das wir durchreisten,
 setzen Gewehre die handeltreibenden Stämme in den Stand, die ackerbau- und
 gewerbtreibenden Klassen zu überwältigen.
 
-Indem wir das Göa- oder Govathal hinaufmarschirten, hatte sich der dicke Nebel
+Indem wir das Gõa oder Govathal hinaufmarschirten, hatte sich der dicke Nebel
 verzogen, und die Berge waren alle ganz deutlich zu sehen. In den Reihen
 dunkelgrüner dichter Bäume längs den Flüssen hin sangen Schwärme Cicaden mit
 zischendem Chor, der stellenweise dem Geräusch von fünfzig in lebhafter
@@ -681,7 +681,7 @@ so daß im Durchschnitt auf den Tag zwölf Meilen kamen. Hätten auch die
 zahlreichen Biegungen und Windungen und Auf und Nieder der Wege gemessen werden
 können, so würde die täglich zurückgelegte Strecke wenigstens fünfzehn Meilen
 betragen haben. Ein Schrittmesser zeigte mehr, aber wir fanden, als wir von
-einem kurzen Ausfluge zurũckkamen, daß das Instrument so sehr abwich, daß wir es
+einem kurzen Ausfluge zurückkamen, daß das Instrument so sehr abwich, daß wir es
 nicht wieder benutzten. Ein sehr guter Chronometer wurde angewandt, um die
 Längenunterschiede zu messen. Er wurde in einer Tuchschachtel auf dem Kopfe
 eines Mannes getragen, der einen sichern und stetigen Gang hatte. Um sich zu

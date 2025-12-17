@@ -234,7 +234,7 @@ meist klein; wir sahen auf dieser Reise keins, das einen halben Acker überstieg
 auf dem vorigen Ausflug aber wurden einige bemerkt, die mehr als zweimal so groß
 waren.
 
-:::: { .wrap-80 .caption }
+:::: { .wrap-80 .caption .align-center }
 ![Einheimisches Gewebe und eingeborener Weber, die landesübliche ungeheure Tabakespfeife rauchend.](Neue_Missionsreisen_122.jpg "Einheimisches Gewebe und eingeborener Weber, die landesübliche ungeheure Tabakespfeife rauchend."){#b122}
 ::::
 
@@ -259,7 +259,7 @@ gewickelt ist, erhält sie die letzte starke Drehung und wird wieder auf der
 Spindel zu einem festen Garn gesponnen. Das Alles geht entsetzlich langsam von
 statten.
 
-:::: { .wrap-80 .caption }
+:::: { .wrap-80 .caption .align-center }
 ![Eine Schmiede mit Blasebalg von Ziegenleder.](Neue_Missionsreisen_123.jpg "Eine Schmiede mit Blasebalg von Ziegenleder."){#b123}
 ::::
 
@@ -311,7 +311,7 @@ massivem Bambus, die reicheren dagegen von Elfenbein oder Zinn. Die zinnerne
 Pelele hat oft die Gestalt einer kleinen Schüssel. Die elfenbeinerne ist einem
 Serviettenring ähnlich.
 
-:::: { .wrap-50 .caption .float-right }
+:::: { .w-50 .caption .align-center .float-right }
 ![Pelele oder Lippenring einer Manganjerin.](Neue_Missionsreisen_125.jpg "Pelele oder Lippenring einer Manganjerin."){#b125}
 ::::
 
@@ -525,7 +525,7 @@ Morgen begegneten wir noch anderen, die nach dem Dorfe kamen, um an der
 allgemeinen Trauer theilzunehmen. Ihr Kummer ging offenbar vom Herzen, da wir
 die Thränen über ihre Wangen herablaufen sahen. Als Muana-Moesi dies Unglück
 seinen Nachbarn berichtete, sagte er, „es seien weise Männer in sein Dorf
-gekommen, hätten sich an der Stelle, wo sein Weib Wasser schöpfte und fich
+gekommen, hätten sich an der Stelle, wo sein Weib Wasser schöpfte und sich
 badete, gewaschen, hätten sich mit einer weißen Medicin (Seife) abgerieben, und
 sein Weib, die hernach baden gegangen, sei von einem Krokodil ergriffen worden,
 er wisse nicht, ob in Folge der angewandten Medicin oder nicht.“ Wir konnten
@@ -556,7 +556,7 @@ den Gouverneur Sir George Grey veröffentlicht. Rigby leitete seine Kenntniß vo
 den Aussagen her, welche Dr. Roscher's Diener gaben, nachdem sie die Küste
 erreicht hatten.
 
-Wo Dr. Roscher die Wasser des Nyassa zuerft sah, weiß man nicht, da die genaue
+Wo Dr. Roscher die Wasser des Nyassa zuerst sah, weiß man nicht, da die genaue
 Lage von Nusseewa an den Ufern des Sees, wo er eine Zeit lang lebte, unbekannt
 ist. Als er ermordet wurde, war er drei Tagereisen nordöstlich von Nusseewa, und
 zwar auf der arabischen Straße, die nach der gewöhnlichen Uebergangsstelle des
@@ -566,7 +566,7 @@ sich behalten, um in Europa das Ganze auf einmal in einem glänzenden Reisewerk
 zu veröffentlichen. Hieraus können wir nur vermuthen, daß er, da er auf dem
 arabischen Wege von Kilwa (Quiloa) her reiste, den See an der arabischen
 Uebergangsstelle Nyambo erreichte, die am Tsenga oder vielleicht der
-Kotakota-Bai gegenüber liegt.^[^0500]^ Die regelmäßige Veröffentlichung unserer Briefe
+Kotakota-Bai gegenüber liegt.<sup>[^0500]</sup> Die regelmäßige Veröffentlichung unserer Briefe
 durch die königliche geographische Gesellschaft war, wie wir einsahen, eine
 unschätzbare Wohlthat. Sie fixirte die Zeit jeder Entdeckung und verewigte
 dieselbe.
@@ -592,7 +592,7 @@ Sclaven in einem Dhow gefangen hatte; denn eine Frau erzählte uns, daß sie uns
 zuerst in Mosauka's Dorf gesehen habe, und daß die Araber aus Furcht vor einer
 *unheimlichen* Bande Basungu geflohen wären.
 
-:::: { .wrap-20 .caption .float-left }
+:::: { .w-20 .caption .align-center .float-left }
 ![„Goree“ oder Sclavenstock.](Neue_Missionsreisen_136.jpg "„Goree“ oder Sclavenstock."){#b136}
 ::::
 
@@ -655,7 +655,7 @@ gehorchte ungern, indem er durch finstere Blicke seinen Trotz andeutete und sehr
 bezeichnend seine großen Lippen hervorstieß. Die Frauen verließen, wie wir
 bemerkten, das Dorf, und da wir vermutheten, daß Unheil erfolgen könne, setzten
 wir zum großen Aerger unserer Leute unsere Reise weiter fort. Sie waren sehr
-böse auf die Eingeborenen wegen ihres Mangels an Gaftfreundschaft gegen Fremde,
+böse auf die Eingeborenen wegen ihres Mangels an Gastfreundschaft gegen Fremde,
 und auf uns, weil wir ihnen nicht gestatten konnten, „den erbärmlichen
 Geschöpfen eine tüchtige Tracht Schläge“ zu geben. „Das kommt daher, wenn man
 mit weißen Männern geht,“ brummten sie; „wären wir mit unserem Häuptling
@@ -682,7 +682,7 @@ hinaufstiegen, schlossen wir, daß das Klima gesund sei, und daß unsere
 Landsleute sich dort eines guten Wohlseins erfreuen, und auch die ausgezeichnete
 Wohlthat genießen könnten, die Menge gewerbfleißiger Einwohner zum Anbau von
 Baumwolle, Buaze, Zucker und anderen werthvollen Erzeugnissen, sowie zum
-Austausch verselben gegen europäische Manufacturwaaren zu bestimmen, und
+Austausch derselben gegen europäische Manufacturwaaren zu bestimmen, und
 dieselben zu gleicher Zeit durch Lehre und Beispiel in den großen Wahrheiten
 unserer heiligen Religion zu unterweisen.
 

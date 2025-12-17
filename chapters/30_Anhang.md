@@ -19,7 +19,7 @@ Republiken.* Erste Abtheilung.) 3 Bde. 8. broch. 4 Thlr.<br /><br/>
 **Gerstäcker, Friedrich,**  *Sennor Aguila.* Peruanisches Lebensbild. (*Zwei
 Republiken.* Zweite Abtheilung.) 3 Bde. 8. broch.  4½ Thlr.<br /><br/>
 
-**Brachvogel. A. E.,**  *Beaumarchais.* Ein Roman. 4 Bde. 6. broch. 5 Thlr.
+**Brachvogel. A. E.,**  *Beaumarchais.* Ein Roman. 4 Bde. 6. broch. 5 Thlr.<br /><br/>
 
 **Mühlbach, Louise,** *Der große Kurfürst und seine Zeit.* (Erste Abtheilung:
 *Der junge Kurfürst.*) Historischer Roman. 3 Bde. 8. broch. 6 Thlr.<br /><br/>
@@ -242,7 +242,7 @@ broch. 5¾ Thlr.<br /><br/>
 Nord-Amerika. 4 Bde. 8. broch. 6 Thlr. 22½ Ngr.<br /><br/>
 
 **Möllhausen, Balduin,** *Palmblätter und Schneeflocken,* Erzählungen aus dem
-fernen Westen. 2 Bde. 8. broch. 2½ Thlt.<br /><br/>
+fernen Westen. 2 Bde. 8. broch. 2½ Thlr.<br /><br/>
 
 **Neumann, H.,**  *Jürgen Wullenweber, der kühne Demagoge.* Gedicht. 8. broch.
 25 Ngr.<br /><br/>

@@ -2,7 +2,7 @@
 
 ::: justified
 
-Es war mein Zweck, in dem vorliegenden Werke^[^0000]^ eine möglichst klare
+Es war mein Zweck, in dem vorliegenden Werke<sup>[^0000]</sup> eine möglichst klare
 Darstellung von vorher unerforschten Landstrichen mit ihren Stromgebieten,
 Naturproducten und Fähigkeiten zu geben und meinen Landsleuten, sowie allen
 Anderen, die sich für die Sache der Menschlichkeit interessiren, das durch den
@@ -174,7 +174,7 @@ zur Ausführung zu bringen, so flößt es mir kein Vertrauen ein, und wir könne
 dasselbe nur als eine neue Bitte um noch weitere Fügung in ein System
 betrachten, welches die Barbarei forterhält. Monsenhor Lacerda hat durch seine
 eifrige Vertheidigung unwissentlich gezeigt, daß die wirklichen Gesinnungen
-seiner Committenten entschieden für die Sclaverei find. Die große Thatsache, daß
+seiner Committenten entschieden für die Sclaverei sind. Die große Thatsache, daß
 die Amerikaner sich von dem Kobold der Sclaverei frei gemacht haben und
 wahrscheinlich die Fortdauer des mörderischen Sclavenhandels durch die
 portugiesische Nation nicht dulden werden, hat mehr gethan, um die neuerliche

@@ -108,7 +108,7 @@ findet, vermittelst großer Baumkähne eingeschifft werden. Jener inländische
 Sclavenhandel unterhält den auswärtigen, und wenn die portugiesische
 Gesetzgebung irgend eine Bedeutung hat, so ist die ganze Sache verboten. Wenn
 sie, wie die Gesetze aussprechen, die Sclaverei los zu werden wünschen, so
-könner keine Sclaven mehr gemacht werden, wofern nicht die Gesetz blos gegeben
+können keine Sclaven mehr gemacht werden, wofern nicht die Gesetz blos gegeben
 werden, um den Engländern eine Gefälligkeit zu erweisen und die Selbstachtung
 der Gesetzgeber zu befriedigen.
 
@@ -169,7 +169,7 @@ sie sämmtlich vom Kongone heraufgebracht waren, wurden die Theile
 zusammengeschraubt. Wo Sclaverei besteht, sind die Schwarzen dem Stehlen mehr
 ergeben als anderwärts. Wir wurden von Dieben belästigt, welche die eisernen
 Schraubenbolzen forttrugen, entdeckten aber zu unserer Freude, daß Strychnin uns
-vor den diebischen Menschen eben so gut sicherte, wie vor der diebischen Hhäne.
+vor den diebischen Menschen eben so gut sicherte, wie vor der diebischen Hyäne.
 Eine Hyäne wurde damit getödtet, und als die Eingeborenen das todte Thier sahen
 und erfuhren, wie wir es umgebracht hatten, schlossen sie, daß es gefährlich
 sei, Leute zu bestehlen, die eine so gewaltige Arzenei besäßen. Der Halblast,
@@ -253,7 +253,7 @@ Morgen wird ein tüchtiges Frühstück genossen; dann kommen die Stunden der
 Lustbarkeit. Eine auserlesene Gesellschaft von drei bis vier sitzt auf den
 Büschen, die eine kleine grasreiche Ebene einfassen, und belustigt sich mit dem
 Concert ihres eigenen sanften und selbstgefälligen Gesanges. Dann folgt ein
-Spiel im Fluge. Sein weiches satmetartiges Gefieder ausspannend, gleitet der
+Spiel im Fluge. Sein weiches sametartiges Gefieder ausspannend, gleitet der
 eine mit zitternden Schwingen nach dem Mittelpunkte des freien Raumes hin,
 singt, während er fliegt, wendet sich dann mit einem schnellen schwirrenden Tone
 aus seinen Flügeln — der einigermaßen einer Kinderklapper gleicht — um und kehrt
@@ -473,7 +473,7 @@ Beim Reisen ist es am besten, sich über die kleinen einfachen Vorfälle dieser
 Art, welche höchstens die in das Dasein des ganzen menschlichen Geschlechts
 eingewebten Triebe beweisen, zu freuen. Es dauert Einen, wenn man hört, daß
 manche unserer Landsleute sich auf rohe Weise in Dinge mengen, die in
-Wirklichkeit keinen Schaben thun. Es find sogar Schläge verhängt worden unter
+Wirklichkeit keinen Schaben thun. Es sind sogar Schläge verhängt worden unter
 der albernen Annahme, daß der Neger Dies und Jenes, und nicht, wie andere
 Menschen, ein wunderliches Gemisch von Gut und Böse, Weisheit und Thorheit,
 Geschicklichkeit und Dummheit ist. Ein Engländer, der ein Gewehr besaß, welches
@@ -652,7 +652,7 @@ haben dreihundert Jahre lang das Fort von Mosambik inne gehabt, aber in diesem
 wie in allen anderen Fällen geht ihre Macht nicht weiter, als sie von einer
 Laffette aus sehen können.
 
-:::: { .wrap-100 .caption }
+:::: { .wrap-100 .caption .align-center }
 ![In der Nähe der Wasserfälle des Rovuma.<br/> <small>Bienenstock.</small>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Von Frauen zum Fischfangen gebrauchter Korb.</small>](Neue_Missionsreisen_0144.jpg "In der Nähe der Wasserfälle des Rovuma."){#b144}
 ::::
 

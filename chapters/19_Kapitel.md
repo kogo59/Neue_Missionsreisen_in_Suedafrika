@@ -15,7 +15,7 @@ erlitten. — Gräber der Eingeborenen. — Mazitu oder Zulus. — Viertägige T
 verschwindet, kommt aber wieder zum Vorschein. — Elephanten. — Araber aus
 Katanga. — Arabische Geographie vom Tanganyika und Nyassa. — Der Sclavenhandel.
 — Rohrhütten in Papyrus. — Junge Frauen werden zum Verkauf hinaufgebracht — Eine
-gescheidte alte Frau. — Wir begegnen in Milena's Dorse plündernden Ajawa. —
+gescheidte alte Frau. — Wir begegnen in Milena's Dorfe plündernden Ajawa. —
 Athletisches Vergnügen eines Elephanten.
 <br /><br/>
 ::::
@@ -195,7 +195,7 @@ Tage lang auf dem Laude beisammen kauernd und warteten, bis sich die Brandung
 legte. Er hatte noch nie solche Wogen gesehen. Wir mußten jede Nacht das Boot
 an's Ufer ziehen, damit es nicht vor Anker zum Sinken gebracht wurde; und
 glaubten wir nicht, daß die Stürme (gales) einer besondern Zeit des Jahres
-eigenthũmlich wären, so würden wir den Nyassa den „See der Stürme“ nennen.
+eigenthümlich wären, so würden wir den Nyassa den „See der Stürme“ nennen.
 
 Von Westen her empfängt der Nyassasee keine großen Zuflüsse. Die fünf Ströme,
 die wir im Vorübergehen bemerkten, schienen damals nicht so viel Wasser
@@ -631,7 +631,7 @@ Der Weg führte noch immer über steile Bergrücken mit Schluchten von 500 bis 1
 Fuß Tiefe. Manche Wände mußten auf Händen und Knieen erstiegen werden, und kaum
 war der Gipfel erreicht, so fing wieder das Hinabsteigen an. Jede Schlucht hatte
 einen fließenden Strom, und die ganze Gegend, obgleich so rauh, war doch
-angebaut und dicht bevölkert gewesen. Viele Bananenbãume, vernachlässigte
+angebaut und dicht bevölkert gewesen. Viele Bananenbäume, vernachlässigte
 Getreidestücken und Congobohnensträuche bezeugten den früheren Anbau. Die ganze
 Bevölkerung war weggerafft worden; zerstörte Dörfer, zerbrochene Geräthe und
 menschliche Gerippe, auf die man bei jedem Schritte stieß, erzählten eine
@@ -690,7 +690,7 @@ waren daher am weitesten auf dem See vorgegangen, und sie sahen etwa 20´ über
 ihren Wendepunkt hinaus, das heißt in den zehnten Grad südlicher Breite hinein.
 Von den wenigstens tausend Fuß betragenden Höhen aus, über welche die zu Lande
 reisende Abtheilung sich plagte, sah man die dunkeln Gebirgsmassen auf beiden
-Seiten ves Sees sich anschließen. Auf dieser Höhe erstreckte sich die Aussicht
+Seiten des Sees sich anschließen. Auf dieser Höhe erstreckte sich die Aussicht
 wenigstens eben so weit wie von den Booten aus, und wir glauben, daß das Ende
 des Sees an den südlichen Rändern von 10° oder an den nördlichen Grenzen von 11°
 südlicher Breite liegt.
@@ -727,7 +727,7 @@ einen Elephanten, im Ganzen vielleicht etliche acht Tonnen Fleisch, und zwei
 Tage nachher nur den Rest von wenigen Sardellen zum Mittagsmahl.
 
 Eines Morgens, als wir an einer ziemlich dicht bewohnten Gegend vorübersegelten,
-waren wir erstaunt, neun große BullenElephanten in der Nähe des Strandes stehen
+waren wir erstaunt, neun große Bullen-Elephanten in der Nähe des Strandes stehen
 zu sehen, die ruhig ihre riesigen Ohren hingen. Erfreut über die günstige
 Gelegenheit, etwas frisches Fleisch zu bekommen, landeten wir und feuerten nach
 einem. Sie zogen sich sämmtlich in ein sumpfiges Stück Land zwischen zwei
@@ -741,7 +741,7 @@ Yards so schnell als wir die Büchsen laden und abschießen konnten. Er schütte
 bei jedem Schusse einfach den Kopf und empfing wenigstens sechzig Enfield'sche
 Kugeln, ehe er fiel. Unser vortrefflicher Matrose aus dem Norden von Irland
 feuerte zufällig das letzte Mal, und sobald er das Thier fallen sah, wendete er
-sich mit einer triumphirenden Miene zum Doctor und rief aus: „Es war *mein* in
+sich mit einer triumphirenden Miene zum Doctor und rief aus: „Es war *mein* 
 Schuß, der es gethan, Herr!“
 
 In wenigen Minuten standen mehr als tausend Eingeborene um den hingestreckten
@@ -800,9 +800,9 @@ unternehmende Araber hatten eine Dhow gebaut und ließen dieselbe, mit Sclaven
 gefahren, ehe wir ihr Hauptquartier erreichten. Dieses Etablissement liegt in
 der Breite der portugiesischen Sclavenausfuhrstadt Ibo und versieht zum Theil
 diesen nichtswürdigen Markt; aber die größere Zahl der Sclaven geht nach
-Kilwa.^[^1900]^ Wir sahen kein großes Verlangen nach Umsatz an den Tag legen. Es
+Kilwa.<sup>[^1900]</sup> Wir sahen kein großes Verlangen nach Umsatz an den Tag legen. Es
 wurde einiges Elfenbein zum Verkauf ausgeboten; aber der Haupthandel bestand in
-menschlichem Vieh. O daß wir deoch eine umfassende Darstellung der Greuel des
+menschlichem Vieh. O daß wir doch eine umfassende Darstellung der Greuel des
 Sclavenhandels geben könnten, mit einer auch nur annähernden Bestimmung der Zahl
 der Menschenleben, die er jährlich vernichtet! denn wir sind überzeugt, würde
 auch nur die Hälfte dessen, was wirklich vorkommt, dargelegt, so würden die
@@ -901,7 +901,7 @@ bilden. Er setzte sich und betrachtete uns einige Minuten, während die jungen
 Damen hinter ihm knieten, und nachdem er sich überzeugt hatte, daß wir
 wahrscheinlich keine Kunden wären, ging er wieder ab.
 
-:::: { .wrap-80 .caption }
+:::: { .wrap-80 .caption .align-center }
 ![Eine alte Manganjerin, die Pelele oder den Lippenring und die in sich kreuzweise durchschneidenden Linien auf Gesicht, Armen und Körper bestehende Tättowirung zeigend.](Neue_Missionsreisen_092.jpg "TEine alte Manganjerin, die Pelele oder den Lippenring und die in sich kreuzweise durchschneidenden Linien auf Gesicht, Armen und Körper bestehende Tättowirung zeigend."){#b092}
 ::::
 
@@ -1005,7 +1005,7 @@ wäre. Durch diese gewaltigen Thiere werden eine unermeßliche Anzahl Bäume
 zerstört. Häufig kauen sie die Aeste nur der Rinde und des Saftes wegen.
 
 Nachdem wir den Fluß verlassen hatten, boten Haufen von Trägern ihre Dienste an.
-Mehrere Rotten verselben setzten so viel Vertrauen in uns, daß sie sich
+Mehrere Rotten derselben setzten so viel Vertrauen in uns, daß sie sich
 weigerten, am Ende des ersten Tages Lohn anzunehmen; sie wünschten noch einen
 Tag zu arbeiten und so die Löhne für beide Tage in *einem* Stück zu bekommen.
 Der junge Ortsvorsteher eines neuen Dorfes rückte selbst mit seiner Mannschaft
@@ -1018,11 +1018,11 @@ Katarakten war, seitdem wir es auf unserm Wege aufwärts passirt hatten, an Grö
 und Wohlstand bedeutend gewachsen. Es waren eine Anzahl großer neuer Hütten
 gebaut worden, und die Bewohner hatten einen guten Vorrath an Kattun und Perlen.
 Wir konnten uns dieses plötzliche Gedeihen nicht erklären, bis wir anstatt der
-zwei alten, lecken Dinge, welche vorher dort lagen, einige schõne, große
+zwei alten, lecken Dinge, welche vorher dort lagen, einige schöne, große
 Baumkähne sahen. Es war eine Ueberfahrtsstelle für die Sclaven geworden, welche
 die portugiesischen Agenten nach Tette transportirten, weil sie sich fürchteten,
 dieselben näher an der Stelle, wo das Schiff lag, ungefähr sieben Meilen davon,
-hinũber zu schaffen. Nichts war niederschlagender, als dieses Betragen der
+hinüber zu schaffen. Nichts war niederschlagender, als dieses Betragen der
 Manganja, durch den gänzlichen Untergang ihrer Nation zu gewinnen. Es war fast
 eben so schlecht, wie das Verhalten unserer eigenen Landsleute, welche Flinten
 aufkauften und sie den Chinesen zuschickten, die mit unseren eigenen Soldaten im
@@ -1078,7 +1078,7 @@ wurde.
 
 „Er blieb fast vier Monate in *Nussewa*, an den Gestaden des Sees. Am 16. März
 dieses Jahres verließ er Nussewa, um nach dem Rovumafluß zu gehen, den man
-ungesähr zwölf Tagereisen vom Nyassasee auf der Straße nach Kilwa überschreitet.
+ungefähr zwölf Tagereisen vom Nyassasee auf der Straße nach Kilwa überschreitet.
 Er beabsichtigte offenbar, vom *Rovuma* aus nach dem See zurückzukehren, da er
 fast sein ganzes Gepäck in der Verwahrung des Sultans von Nussewa ließ, und nur
 von zwei Negerbedienten und zwei Trägern für seine Reise-Utensilien, nämlich

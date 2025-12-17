@@ -36,7 +36,7 @@ hatte der „Pioneer“ Befehl, den Rovuma zu erforschen. Er hatte sich schon um
 zwei Monate verspätet, und die Regenzeit war halb vorüber. Wenn daher auch die
 Reisegesellschaft nach Chibisa's Dorf wäre mitgenommen worden, so wäre doch die
 Mission in einer ungesunden Gegend, beim Beginn der ungesundesten Zeit des
-Jahres ohne einen ärztlichen Begleiter und ohne Mittel zurũckgelassen worden,
+Jahres ohne einen ärztlichen Begleiter und ohne Mittel zurückgelassen worden,
 die gesunden Hochlande zu erreichen oder nach dem Meere zurückzukehren. Wir
 fürchteten, daß beim Mangel ärztlicher Hülfe und aller Kenntniß der Behandlung
 des Fiebers eine Wiederholung des traurigen Schicksals eintreten werde, welches
@@ -154,7 +154,7 @@ Weise kauften, wurde durch den nassen Zustand des Fahrzeugs unvermeidlich
 verdorben; aber die nach Hause geschickten Proben wurden für „die nämliche Art
 Baumwolle, die in Lancashire am meisten gebraucht wird,“ erklärt, und das Garn,
 oder vielmehr das Vorgespinnst, von dem wir das Pfund für ungefähr einen
-englischen Pfennig kauften, erregte die Bewunderung vortiger praktischer
+englischen Pfennig kauften, erregte die Bewunderung dortiger praktischer
 Fabrikanten
 
 Jetzt, wo wir besser eingerichtet waren, verfolgte Charles Livingstone dasselbe
@@ -187,12 +187,12 @@ welche England unstreitig der Westküste ertheilt hat. Es gab dort keine jener
 christlichen Eingeborenen, die man in Sierra-Leone und anderwärts zu Tausenden
 zählen kann, und die, was sie auch für Fehler haben mögen, die Eigenschaft
 besitzen, daß sie unter ihren Landsleuten zuverlässige Handelsagenten sind.
-Indem wir beide Küsten sorgfältig geprũft und verglichen haben und den Umstand
+Indem wir beide Küsten sorgfältig geprüft und verglichen haben und den Umstand
 berücksichtigen, daß vielleicht die Mehrzahl derjenigen, denen englisches
 Wohlwollen zu Theil geworden ist, die Niedrigsten der Niedrigen — freigelassene
 afrikanische Sclaven gewesen sind, auch auf die Behauptungen der Händler, die
 darin, daß sie verhindert wurden, die Menschen wie Vieh zu behandeln, ihre
-verletzten Gefühle in starken Worten ausgedrückt haben, alles gebũhrende Gewicht
+verletzten Gefühle in starken Worten ausgedrückt haben, alles gebührende Gewicht
 legen, müssen wir sagen, daß Englands Benehmen an der Westküste seit einigen
 Jahren die Bewunderung der Welt verdient. Sein Edelmuth wird in den Augen der
 Nachwelt großartig erscheinen. Hier, an der Ostküste, haben wir den Gegensatz.
@@ -247,7 +247,7 @@ waren. Ehe die Sonne unterging, wurden so viel Lebensmittel gebracht, als wir zu
 kaufen Lust hatten, und da es zu regnen drohte, wurden für die ganze
 Reisegesellschaft Hütten besorgt.
 
-:::: { .wrap-100 .caption }
+:::: { .wrap-100 .caption .align-center }
 ![Trupp Gefangener, auf ihrem Wege nach Tette bei Mbame's Dorf angetroffen.](Neue_Missionsreisen_047.jpg "Trupp Gefangener, auf ihrem Wege nach Tette bei Mbame's Dorf angetroffen."){#b047}
 ::::
 

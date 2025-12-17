@@ -111,14 +111,14 @@ getrocknet, um sie zu verkaufen oder später selbst zu verzehren.
 
 Als wir weiter fuhren, passirten wir einen etwa dreißig Yards breiten tiefen
 Strom, der aus einer mehrere Meilen breiten offenen Wassermasse hereinfloß. An
-verschiedenen Stellen desselben waren Schaaren von Männuern beschäftigt, ihre
+verschiedenen Stellen desselben waren Schaaren von Männern beschäftigt, ihre
 Baumkähne mit der Lotuswurzel zu füllen, die sie Nyika nennen, und die, wenn sie
 gekocht und geröstet wird, unseren Kastanien gleicht und in Afrika als
 Nahrungsmittel eine weite Verbreitung hat. Aus dieser Lagune und durch diesen
 Strom fließt der Haupttheil der Wasserlinsen des Schire herab. Die Lagune selbst
 wird Nyanja ea Motope (See des Schlammes) genannt. Sie heißt auch Nyanja Pangono
 (kleiner See), während der Elephantensumpf unter dem Namen Nyanja Mukulu (großer
-See) bekannt ift. Aus der an den anliegenden Hügeln noch immer zu bemerkenden
+See) bekannt ist. Aus der an den anliegenden Hügeln noch immer zu bemerkenden
 Küstenlinie geht hervor, daß dieselben in alten Zeiten wirkliche Seen waren, und
 die so erhaltenen traditionellen Namen sind nur ein neuer Beweis für die
 allgemeine Austrocknung, welche Afrika erfahren hat. Niemand würde glauben, daß
@@ -185,7 +185,7 @@ Bewohner große Quantitäten Reis bauten und eifrige Handelsleute waren. Der Rei
 wurde zu erstaunlich niedrigen Preisen verkauft, und wir konnten nicht ein
 Zehntel der Lebensmittel kaufen, die uns feilgeboten wurden.
 
-:::: { .wrap-30 .caption .float-right}
+:::: { .w-30 .caption .align-center .float-right}
 ![Afrikanische Geige mit *einer* Saite.](Neue_Missionsreisen_101.jpg "Afrikanische Geige mit *einer* Saite."){#b101}
 ::::
 
@@ -235,7 +235,7 @@ nicht an, ausgenommen den Theil um die Wunde herum, und das wird weggeworfen. An
 manchen Orten wird der herabfallende Balken mit großen Steinen beschwert, hier
 aber ist das schwere harte Holz genügend.
 
-:::: { .wrap-80 .caption }
+:::: { .wrap-80 .caption .align-center }
 ![Ansicht des Dampfers, der Flußpferdfallen und eines todten Flußpferdes.](Neue_Missionsreisen_103.jpg "Ansicht des Dampfers, der Flußpferdfallen und eines todten Flußpferdes."){#b103}
 ::::
 
@@ -263,7 +263,7 @@ naheliegende Frage.
 Die natürliche Nahrung der Moskitos bilden wahrscheinlich Pflanzensäfte und
 absterbender vegetabilischer Stoff im Schlamme, und Blut ist zu ihrer Existenz
 nicht nothwendig. An sumpfluftreichen Stellen erscheinen sie so gewöhnlich, daß
-ihre Gegenwart dem Menschen als ein Wink gelten kann, sich von dexartigen
+ihre Gegenwart dem Menschen als ein Wink gelten kann, sich von derartigen
 Localitäten zu entfernen und gesundere aufzusuchen. Auf den Hochländern zeigen
 sich keine. In den Tiefländern schwärmen sie zu Myriaden herum. Mit den
 Beißwerkzeugen sind nur die Weibchen versehen, und ihre Zahl scheint die der
@@ -364,11 +364,11 @@ der feierlich blickende und würdevoll einherschreitende Marabu, der Geschmack
 für todte Fische oder Menschen hat, stolzirt langsam an den fast stillstehenden
 Kanälen hin. Gruppen von Männern und Knaben suchen an verschiedenen Stellen
 emsig nach Lotus- und anderen Wurzeln. Manche stehen in Baumkähnen auf den mit
-Wasserlinsen bedeckten Teichen und spießen Fische auf, während AnAdere über die
+Wasserlinsen bedeckten Teichen und spießen Fische auf, während Andere über die
 kleinen sich durchschneidenden Ströme fahren, um ihre versenkten Fischkörbe zu
 untersuchen.
 
-:::: { .wrap-30 .caption .float-left}
+:::: { .w-30 .caption .align-center .float-left}
 ![Fischkorb.](Neue_Missionsreisen_108.jpg "Fischkorb."){#b108}
 ::::
 

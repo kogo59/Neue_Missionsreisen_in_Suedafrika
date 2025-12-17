@@ -107,7 +107,7 @@ allerdings seinen Schwanz benutzte, um scharfe Schläge zu versetzen, und uns zu
 dem Schlusse führte, daß die Ansicht der Eingeborenen richtig sei. Auch glaubten
 sie, daß, wenn Jemand einem wilden Thiere die Augen verschlösse, dasselbe ihn
 fahren ließe. Man weiß, daß Krokodile sich vereinigen und ein großes Stück ihrer
-eigenen Art tödten und fressen.^[^1500]^
+eigenen Art tödten und fressen.<sup>[^1500]</sup>
 
 Manche Fischer werfen die Gräten der Fische in den Fluß, aber in den meisten
 Fischerdörfern sind sie an verschiedenen Stellen aufgehäuft. Die Dorfbewohner
@@ -198,7 +198,7 @@ uninteressante nackte Wahrheit. Laßt einen eifrigen Geographen einen
 Eingeborenen aus dem Innern fragen, ob die Gebirge um die Heimath seiner Jugend
 hoch sind, so wird die Antwort, die aus einer dunkeln Erinnerung an etwas der
 Art, verbunden mit der Begierde zu gefallen, hervorgeht, bejahend sein. Und sie
-wird es auch sein, wenn der Gegenftand der Erkundigung Gold, oder Einhörner,
+wird es auch sein, wenn der Gegenstand der Erkundigung Gold, oder Einhörner,
 oder Menschen mit Schwänzen betrifft. Englische Jagdliebhaber, obwohl zu Hause
 ausgezeichnete Schützen, sind allgemein wegen ihrer vielen Fehlschüsse bekannt,
 die sie thun, wenn sie zum ersten Mal in Afrika zu schießen versuchen. Es ist
@@ -212,7 +212,7 @@ Falle die Wahrheit vorzöge. „Er ist mein Vater,“ erwiderte der Eingeborene,
 ich dachte, er würde ungehalten sein, wenn ich ihm sagte, daß er nie träfe.“ So
 groß aber dieser Fehler unter den Freien ist, unter den Sclaven ist er noch viel
 lästiger. Man kann einen Sclaven kaum dazu bringen, etwas treu zu übersetzen, so
-stark beschäftigk ihn der Gedanke an das, was gefallen wird. Bei weitem das
+stark beschäftigt ihn der Gedanke an das, was gefallen wird. Bei weitem das
 größte Wunder von Capitän Speke's und Grant's Reise war, daß sie dieselbe mit
 Sclaven ausführten.
 
@@ -367,7 +367,7 @@ Batoka-Hochlanden westlich vom Kalomo zeigt, daß in Beziehung auf die östlich
 von demselben gelegenen Länder das große Makololothal noch immer eine Vertiefung
 ist.
 
-:::: { .wrap-80 .caption }
+:::: { .wrap-80 .caption .align-center }
 ![Blasebalg und andere Werkzeuge.](Neue_Missionsreisen_351.jpg "Blasebalg und andere Werkzeuge."){#b351}
 ::::
 
@@ -392,7 +392,7 @@ wieder einen breiten und glatten Lauf hat. Wir wurden von Sinamane selbst gut
 empfangen. Nie war ein Sonntag den Müden willkommener als dieser, der letzte,
 den wir mit unserer Bedeckung verleben sollten.
 
-:::: { .wrap-40 .caption .float-right }
+:::: { .w-40 .caption .align-center .float-right }
 ![Leibgürtel.](Neue_Missionsreisen_353.jpg "Leibgürtel."){#b353}
 ::::
 
@@ -401,7 +401,7 @@ energischste der Batoka-Häuptlinge, die wir getroffen haben. Er war bis vor
 Kurzem, wo er seine Anhänglichkeit nach Linyanti einschickte, unabhängig, und da
 Alles, was Sekeletu von ihm verlangt, darin besteht, daß er die Matebele, wenn
 sie über den Zambesi zu setzen wünschen, um die Makololo anzugreifen, nicht mit
-Baumkähnen versieht, so wird er wahr sscheinlich treu bleiben. Leschore's
+Baumkähnen versieht, so wird er wahrscheinlich treu bleiben. Leschore's
 Sendung hatte, wie schon gesagt, den Zweck, diese Vasallschaft zu ratificiren,
 Sinamane zu ersuchen, uns, so weit er könnte, mit Baumkähnen zu versehen, und
 ihm zu versichern, daß Moschobotwane die Genehmigung, unter seine Landsleute auf
@@ -431,4 +431,4 @@ Ende der ersten Abtheilung.
 :::
 
 
-[^1500]: [Nach den Zeugnissen derselben Leute findet sich oberhalb der Wasserfälle eine größere Manmnichfaltigkeit von Fischen als unterhalb derselben. Von denen oberhalb der Fälle nennen sie: den Mpofu, Mo, Nijnje, Ngwesi, Moschona, Nembwe, Seséo, Lobotu, Lobangwa, Motome, Nembele, Litore, Leschuala oder Ndombe, Linyonga, Mpala, Jorungo, Likeya, Moschiba, Bundo, Seto.<br/> Außer diesen zweiundzwanzig Fischen erwähnen sie noch den Mumbo, der von den Baschubia auch Mohumbwe genannt wird und eine Art Sägefisch zu sein scheint, und den Likala oder nala, den Lepidosiren im Barotsethale.]{.footnote}
+[^1500]: [Nach den Zeugnissen derselben Leute findet sich oberhalb der Wasserfälle eine größere Mannnichfaltigkeit von Fischen als unterhalb derselben. Von denen oberhalb der Fälle nennen sie: den Mpofu, Mo, Nijnje, Ngwesi, Moschona, Nembwe, Seséo, Lobotu, Lobangwa, Motome, Nembele, Litore, Leschuala oder Ndombe, Linyonga, Mpala, Jorungo, Likeya, Moschiba, Bundo, Seto.<br/> Außer diesen zweiundzwanzig Fischen erwähnen sie noch den Mumbo, der von den Baschubia auch Mohumbwe genannt wird und eine Art Sägefisch zu sein scheint, und den Likala oder nala, den Lepidosiren im Barotsethale.]{.footnote}

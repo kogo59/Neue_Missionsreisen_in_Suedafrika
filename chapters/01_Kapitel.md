@@ -10,7 +10,7 @@ Landschaft am Flusse. — Fruchtbarkeit des Deltabodens. — Colonos oder Leibei
 — Tiefes Fluthbett des Flusses. — Ausschiffung des Gepäckes auf Expedition
 Island. — Das Land in Kriegszustand. — „Freie Auswanderer.“ — Mariano's
 Greuelthaten. — Wir stoßen auf sogenannte „Rebellen.“ — Ein Gefecht zwischen
-Eingeborenen und Portu- giesen. — Eine auf Munition wartende Armee. — Vögel und
+Eingeborenen und Portugiesen. — Eine auf Munition wartende Armee. — Vögel und
 andere Thiere, die wir auf dem Flusse antrafen. — Mazaro. — Die
 Wiedereinschiffung der Waaren daselbst nach Quillimane. — Schupanga. —
 Zulu-Herrschaft auf dem rechten Ufer des Zambesi. — Von den Portugiesen
@@ -59,7 +59,7 @@ Ebbe und Fluth abhängiger Strom; denn einige siebenzig Meilen aufwärts endigt 
 in Sümpfen, zu denen der Zugang durch Rohr und saftreiche Wasserpflanzen
 versperrt ist. Da man den Luawe den „West-Luabo“ genannt hat, so folgt daraus,
 daß man ihn für einen Nebenfluß des Zambesi hielt, dessen Hauptarm „Luabo“
-oder,Ost-Luabo“ heißt. Die,„Ma Robert“ und die „Pearl“ gelangten an die Stelle,
+oder, Ost-Luabo“ heißt. Die,„Ma Robert“ und die „Pearl“ gelangten an die Stelle,
 welche sich als eine wirkliche Mündung des Flusses erwies, den wir suchten.
 
 Der Zambesi ergießt sein Wasser durch vier Mündungen in's Meer, nämlich den
@@ -74,7 +74,7 @@ behaupten, die englischen Kreuzer zu veranlassen, die falsche Mündung zu
 bewachen, während durch die wahre Mündung ruhig Sclaven ausgeführt wurden; und
 es ist auffällig, daß dieser Irrthum vor Kurzem noch durch eine aus dem
 portugiesischen Ministerium der Colonien hervorgegangene Karte verbreitet worden
-ist.^[^0100]^ 
+ist.<sup>[^0100]</sup> 
 
 Nachdem der geschickte und energische Inspector Francis Skead, von der
 Königlichen Flotte, die drei Arme untersucht hatte, ergab sich der Kongone als
@@ -88,7 +88,7 @@ ungefähr zwei Faden desselben über der Barre stehen und bei Springfluth das
 Wasser zwölf bis vierzehn Fuß steigt. Die Barre ist eng, die Einfahrt fast
 gerade, und würden Baken gelegt und eine Wahrtonne auf Pearl Island errichtet,
 so wäre sie jederzeit für Dampfer sicher zu passiren. Wenn der Wind von Osten
-oder Norden weht, so ift die Barre glatt, weht er aber aus Süden oder Südosten,
+oder Norden weht, so ist die Barre glatt, weht er aber aus Süden oder Südosten,
 so tritt heftige Brandung ein und sie ist in Booten nicht zu passiren. Eine
 starke Strömung nach Osten zur Zeit der Fluth und nach Westen zur Zeit der Ebbe
 könnte ein Boot oder Schiff in die Brandung hineinziehen. Wenn man die Länge
@@ -120,7 +120,7 @@ seltsam; der Himmel selbst ist neu, indem er in Farben erglüht oder mit Sternen
 funkelt, wie man sie in nördlichen Gegenden nie erblickt.
 
 Der Kongone befindet sich fünf Meilen östlich vom Milambe oder dem westlichen
-Arme und sieben Meilen westlich vom OstLuabo, der seinerseits wieder fünf Meilen
+Arme und sieben Meilen westlich vom Ost-Luabo, der seinerseits wieder fünf Meilen
 vom Timbwe entfernt ist. Wir sahen nur wenig Eingeborene, und da diese, so wie
 sie uns gewahr wurden, aus ihren Baumkähnen in das Dickicht der Manglebaumwälder
 flüchteten, so gaben sie deutlich zu verstehen, daß sie von weißen Männern nicht
@@ -139,7 +139,7 @@ den Seiten berühren, in den breiten Zambesi endet. Der übrige Theil des Kongon
 tritt bedeutend weiter oben aus dem Hauptstrome heraus, als der Nebenarm, der
 den Namen Doto führt.
 
-:::: { .wrap-70 .caption }
+:::: { .wrap-60 .caption .align-center  }
 ![Mit Schlingpflanzen bedeckte Pandane oder Schraubenpalme am Kongonekanal des Zambesi.](Neue_Missionsreisen_020.jpg "Mit Schlingpflanzen bedeckte Pandane oder Schraubenpalme am Kongonekanal des Zambesi."){#b020}
 ::::
 
@@ -230,7 +230,7 @@ begrenzt. Bei windstillem Wetter zeigt es ein eigenthümliches Aufbrausen des
 Wassers in Folge einer von unten ausgehenden Wirkung. Bei einem leichten Winde
 nimmt der Qwete ein charakteristisches Schlagen kleiner Wellen an, und wenn der
 Wind stark wird und den Fluß aufregt, wie es gewöhnlich vom Mai bis November der
-Fall ist, sind die Wogen auf ihm größer als auf anderen Theilen des FIlusses,
+Fall ist, sind die Wogen auf ihm größer als auf anderen Theilen des Flusses,
 und eine Reihe kleiner Brandungen bezeichnet die Kante der obigen seichten
 Sandbank.
 
@@ -420,7 +420,7 @@ herab vom Bette nach einem der Leichname hin kann man die aufeinanderfolgenden
 Höhen bemerken, auf welchen das Wasser des Hauptstroms von der Zeit des
 Hochwassers im März bis zu seiner mittleren Höhe im Juni stand.
 
-:::: { .wrap-100 .caption }
+:::: { .wrap-100 .caption .align-center }
 ![Ansicht von Mazaro. — In der Ferne eine Schlacht zwischen Portugiesen und Rebellen.](Neue_Missionsreisen_030.jpg "Ansicht von Mazaro. — In der Ferne eine Schlacht zwischen Portugiesen und Rebellen."){#b030}
 ::::
 
@@ -469,7 +469,7 @@ werden, in den Worten ihres liebsten Kahnliedes angeben: „Uachingere,
 Uachingere, Kale,“ „Ihr betrogt mich von Alters her;“ oder: „Du bist
 unzuverlässig, wahrlich unzuverlässig.“
 
-:::: { .wrap-100 .caption }
+:::: { .wrap-100 .caption .align-center }
 ![Tanz der Landeens oder Zulus, die in Schupanga angekommen sind, um von den Portugiesen ihren jährlichen Tribut zu erheben.](Neue_Missionsreisen_032.jpg "Tanz der Landeens oder Zulus, die in Schupanga angekommen sind, um von den Portugiesen ihren jährlichen Tribut zu erheben."){#b032}
 ::::
 
@@ -497,7 +497,7 @@ die Erlaubniß, diese Bäume abzuschlagen, zahlte ein portugiesischer Herr aus
 Quillimane den Zulus für das Jahr 1858 zweihundert Dollars und sein Nachfolger
 zahlt jetzt dreihundert.
 
-:::: { .wrap-100 .caption }
+:::: { .wrap-100 .caption .align-center }
 ![Das Grab der Frau Livingstone unter dem Baobabbaume in der Nãhe des Schupangahauses.](Neue_Missionsreisen_033.jpg "Das Grab der Frau Livingstone unter dem Baobabbaume in der Nãhe des Schupangahauses."){#b033}
 ::::
 
@@ -511,7 +511,7 @@ thürmt, und weiterhin treten entferntere Hügel am blauen Horizonte hervor.
 Dieses schön gelegene Haus besitzt ein schmerzliches Interesse, weil es in
 traurigster Weise mit der Geschichte zweier englischer Expeditionen verbunden
 gewesen ist. Hier starb im Jahre 1826 der arme Kirkpatrick, Mitglied von Capitän
-Owen's InspectionsExpedition, am Fieber; und hier starb im Jahre 1862 an
+Owen's Inspections-Expedition, am Fieber; und hier starb im Jahre 1862 an
 derselben verhängnißvollen Krankheit die theure Gattin Dr. Livingstone's.
 Hundert Yards östlich vom Hause liegen Beide, fern von ihrem Vaterlande, unter
 einem großen Baobab-Baume begraben. Das Schupanga-Haus war während des
@@ -525,7 +525,7 @@ noch mehr war, Oberst Nunes und Major Sicard verwirklichten ihr Wohlwollen
 dadurch, daß sie für den Dampfer Holz schlagen ließen und Leute schickten, um
 beim Ausladen zu helfen. Es war bemerkenswerth, daß keiner von ihnen etwas von
 der Kongone-Mündung wußte; sie glaubten Alle, wir wären durch die „Barra
-Catrina“ oder den Ost-Luabo hereingekommen.^[^0101]^ Dr. Kirk blieb hier einige Wochen
+Catrina“ oder den Ost-Luabo hereingekommen.<sup>[^0101]</sup> Dr. Kirk blieb hier einige Wochen
 und hatte, außer der Ausforschung eines zwanzig Meilen nach Südwest gelegenen
 kleinen Sees, die alleinige ärztliche Behandlung der kranken und verwundeten
 Soldaten, für welch' werthvolle Dienste er den Dank der portugiesischen
@@ -572,7 +572,7 @@ und mitleidig zurück auf den langsamen, schnaubenden „Asthmatiker.“ Für un
 der Dampf keine arbeitsparende Kraft; Boote, ja sogar Baumkähne, würden mit halb
 so viel Mühe und Aufwand für die Expedition Alles das gethan haben, was er that.
 
-:::: { .wrap-100 .caption }
+:::: { .wrap-100 .caption .align-center }
 ![Die „Ma-Robert“ im Zambesi oberhalb Senna; in der Ferne der sattelförmige Kevramisahügel.](Neue_Missionsreisen_036.jpg "Die „Ma-Robert“ im Zambesi oberhalb Senna; in der Ferne der sattelförmige Kevramisahügel."){#b036}
 ::::
 
@@ -652,7 +652,7 @@ den Raub angegebene Grund war: „es schicke sich nicht, daß ein Unterthan mehr
 Land besitze, als die Krone von Portugal.“ Die Landeens folgten bald nach,
 nahmen Besitz vom Ganzen und beraubten die Räuber.
 
-:::: { .wrap-100 .caption }
+:::: { .wrap-100 .caption .align-center }
 ![Landeens oder Zulus, die in Senna von den Portugiesen Tribut erheben, stellen Kriegsübungen zur Schau an.](Neue_Missionsreisen_038.jpg "Landeens oder Zulus, die in Senna von den Portugiesen Tribut erheben, stellen Kriegsübungen zur Schau an."){#b038}
 ::::
 
@@ -748,7 +748,7 @@ könnten sich noch so sehr waschen.“ Wir machten ihm ein Geschenk mit einem
 Stückchen Kattun, und er gab uns in freigebiger Weise einige schöne, frische
 Fische und türkischen Weizen dafür.
 
-:::: { .wrap-100 .caption }
+:::: { .wrap-100 .caption .align-center }
 ![a) Flußpferdspeer mit aufgewickeltem Milolaseil und wurffertig eingesetzter Speerspitze. b) Die Art, wie man die Speerspitze am Seile befestigt. c) Die Speerspitze hat in's Thier eingeschlagen und das Seil wickelt sich vom Schafte ab.](Neue_Missionsreisen_041.jpg "a) Flußpferdspeer mit aufgewickeltem Milolaseil und wurffertig eingesetzter Speerspitze. b) Die Art, wie man die Speerspitze am Seile befestigt. c) Die Speerspitze hat in's Thier eingeschlagen und das Seil wickelt sich vom Schafte ab."){#b041}
 ::::
 
@@ -763,7 +763,7 @@ Gebirgsvarietät, Pallahs (Antilope melampus), Wasserböcke und wilde Schweine,
 nebst der Spur von Büffeln und Elephanten.
 
 Schiramba Dembe am rechten Ufer ist verlassen; wenige alte eiserne Kanonen
-zeigen die Stelle, wo einst eine RebellenPallisade stand; oberhalb derselben in
+zeigen die Stelle, wo einst eine Rebellen-Pallisade stand; oberhalb derselben in
 der Nähe des Flusses steht ein prachtvoller Baobab, der zu einer geräumigen,
 innen wie außen mit Rinde bekleideten Hütte ausgehöhlt ist. Die alten Eichen im
 Scherwood-Forste sind, wenn sie hohl, inwendig abgestorben oder faul; der Baobab
@@ -815,7 +815,7 @@ Weise erklärten, in welcher die Ruder sich drehten.
 
 
 [^0100]: 
-Noch auffälliger ist es, daß das portugiesische officielle Blatt Ananaes do Conselho Ultramarinho“ für 1864 schamlos behauptet, daß „in dem Hafen (Kongone), den Dr. Livingstone entdeckt zu haben vorgiebt, viele Schiffe mit Sclaven vor den Verfolgungen englischer Kreuzer Schutz gesucht haben.“ Dies (sollte man es glauben?) war der portugiesischen Regierung bekannt! Würde wohl irgend ein Ehrenmann in Europa eine Karte, wie die oben im Text erwähnte, anfertigen und sie der englischen Regierung einsenden als diejenige, welche die wahre Mündung des Zambesi angebe? Wir hatten nicht die Absicht, folgenden Brief eines portugiesischen Officiers an einen seiner Collegen in Afrika abzudrucken, bis wir die elende Aufschneiderei des officiellen portugiesischen Blattes zu Gesicht bekamen, die offenbar für andere Staatsmänner in Europa bestimmt ist. Der Herausgeber einer Cap-Zeitung sagt:<br /><br /> „Chevalier Duprat hat mit derselben Gelegenheit eine Mittheilung vom portugiesischen Gouverneur von Tette erhalten, deren Uebersetzung wit nachstehend mittheilen: <br /><br /> „Sir! — Als mir Mitte vorigen Jahres durch Dr. Livingstone die Briefe überreicht wurden, mit denen mich Ew. Excellenz unter dem April desselben Jahres beehrten, war ich gerade mit den Kaffern des Districts Senna in Krieg verwickelt. Nächstdem verhinderten mich andere Arbeiten und meine leidende Gesundheit, Ew. Excellenz sofort meinen Dank für die Güte auszusprechen, mit der Sie mich beehrt haben. Ew. Excellenz empfehlen mir den berühmten Dr. Livingstone. Meine Sympathien für diesen Herrn sind so groß, daß ich nicht unterlassen kann, ihm alle Dienste zu erweisen, welche er beansprucht, sofern sie irgend in meiner Macht stehen. Doch hängen auch meine Wünsche von meinen Mitteln ab, ich mag mich als Privatperson oder als Behörde betrachten.
+Noch auffälliger ist es, daß das portugiesische officielle Blatt Ananaes do Conselho Ultramarinho“ für 1864 schamlos behauptet, daß „in dem Hafen (Kongone), den Dr. Livingstone entdeckt zu haben vorgiebt, viele Schiffe mit Sclaven vor den Verfolgungen englischer Kreuzer Schutz gesucht haben.“ Dies (sollte man es glauben?) war der portugiesischen Regierung bekannt! Würde wohl irgend ein Ehrenmann in Europa eine Karte, wie die oben im Text erwähnte, anfertigen und sie der englischen Regierung einsenden als diejenige, welche die wahre Mündung des Zambesi angebe? Wir hatten nicht die Absicht, folgenden Brief eines portugiesischen Officiers an einen seiner Collegen in Afrika abzudrucken, bis wir die elende Aufschneiderei des officiellen portugiesischen Blattes zu Gesicht bekamen, die offenbar für andere Staatsmänner in Europa bestimmt ist. Der Herausgeber einer Cap-Zeitung sagt:<br /><br /> „Chevalier Duprat hat mit derselben Gelegenheit eine Mittheilung vom portugiesischen Gouverneur von Tette erhalten, deren Uebersetzung wir nachstehend mittheilen: <br /><br /> „Sir! — Als mir Mitte vorigen Jahres durch Dr. Livingstone die Briefe überreicht wurden, mit denen mich Ew. Excellenz unter dem April desselben Jahres beehrten, war ich gerade mit den Kaffern des Districts Senna in Krieg verwickelt. Nächstdem verhinderten mich andere Arbeiten und meine leidende Gesundheit, Ew. Excellenz sofort meinen Dank für die Güte auszusprechen, mit der Sie mich beehrt haben. Ew. Excellenz empfehlen mir den berühmten Dr. Livingstone. Meine Sympathien für diesen Herrn sind so groß, daß ich nicht unterlassen kann, ihm alle Dienste zu erweisen, welche er beansprucht, sofern sie irgend in meiner Macht stehen. Doch hängen auch meine Wünsche von meinen Mitteln ab, ich mag mich als Privatperson oder als Behörde betrachten.
 Ich bin vollkommen überzeugt, wie nützlich die Erforschungen des Herrn Doctor sowohl für die geographische Kenntniß und Wissenschaft, als für das Heil dieses Landes sind, das eben so reich wie vernachlässigt ist. Ich hoffe aufrichtig daß es in meiner Macht stehen möge, ihm so zu helfen, wie ich es wünsche. Indeß versichere ich Ew. Excellenz, daß ich ihm dienen werde, soweit es in meiner Macht steht. Man sagt, daß unsere Regierung damit umgehe, an der Barre des Luabo eine Station zu errichten, und von da aus directe Schiffsverbindung nach dem hiesigen Districte in's Leben zu rufen. Sollte dies geschehen, so würden große Vortheile für dies Land daraus hervorgehen, und zwar zu Livingstone's großem Ruhme, da er der Erste war, der vom Meere her auf diesem Verbindungswege zu uns gekommen ist. Ich danke Ew. Excellenz für die Zeitungen, die Sie mir gesandt haben. Ich schätze dieselben hoch als Artikel, die man hier nur selten zu Gesicht bekommt. Ew. Excellenz verbinden mich auch durch die Sendung von Sämereien; aber unglücklicher Weise befand ich mich in Mosambik, und da ich sie erst in diesem Jahre gesäet habe, sind sie wenig gerathen; ich fürchte, sie waren bereits zu alt. Ich habe nur sehr beschränkte Gelegenheit, Gegendienste erweisen zu können; sollten aber Ew. Excellenz der Ansicht sein, daß ich Ihnen von Nutzen sein kann, so wird mich das ganz besonders freuen.<br /><br />
 
     „Ich bin u. s. w.

@@ -29,7 +29,7 @@ nothwendig. — Handelsberichte. — Oberst Ord's Bericht. — Einflüsse der
 Niederlassungen. — Sterblichkeit am Bord des Westküstengeschwaders. — Behandlung
 des Fiebers. — Missionsgesellschaften auf der Westküste. — Unsere amerikanischen
 Missionsbrüder. — Winke zu einer Lösung unserer Verbrecherfrage. — Oberst Ord's
-Ausicht über Niederlassungen.
+Ansicht über Niederlassungen.
 <br /><br/>
 ::::
 
@@ -251,8 +251,8 @@ Niemand in der Lage war, es zu leugnen, die Behauptung gewagt, daß der
 Sclavenhandel wie jeder andere Handelszweig dem Gesetz des Vorrathes und Bedarfs
 unterworfen sei, und daß er deshalb frei sein müsse. Nach dem, was wir gesehen
 haben, schließt er so viel Mord als einen wesentlichen Bestandtheil in sich,
-daßman ihm kaum mehr gestatten kann, im Handelskatalog zu bleiben, als der
-Garottung^[^2900]^, dem Thaggi und der Seeräuberei.
+daß man ihm kaum mehr gestatten kann, im Handelskatalog zu bleiben, als der
+Garottung<sup>[^2900]</sup>, dem Thaggi und der Seeräuberei.
 
 Wir haben das Verfahren, welches demjenigen eines Gerichts am nächsten kommt, in
 der That das einzige, welches sich der Gerechtigkeit nähert, wo der Verbrecher
@@ -511,7 +511,7 @@ Grund, warum nicht die Buddhisten und Muhamedaner jetzt mit Dampfern und allen
 den Verbesserungen in der Artillerie über uns arme Inselbewohner hätten
 herrschen, und warum nicht die Lancashire'schen Zauberinnen und Edinburgher
 „hübschen Mädchen“ jetzt regelmäßig nach den Harems des Ostens hätten ausgeführt
-werden sollen.^[^2901]^ 
+werden sollen.<sup>[^2901]</sup> 
 
 Wir sind so oft gefragt worden, ob die Afrikaner fähig wären, die christliche
 Religion anzunehmen, daß wir es wagen, folgende Bemerkungen zu machen, wenn wir
@@ -638,7 +638,7 @@ Ueberzeugung, daß sie einen höheren Sinn für Gerechtigkeit haben, als die
 Mitglieder mancher anderen Nationen, müssen wir doch gestehen, daß der niedrige
 englische Händler ein so arger Renommist ist, daß er der Fürsorge bedarf, und
 indem wir die nationale Pflicht des Starken, den Schwachen zu schützen, außer
-Frage stellen, denken wir, daß der Betrag des Handels^[^2902]^, der sich durch Lord
+Frage stellen, denken wir, daß der Betrag des Handels<sup>[^2902]</sup>, der sich durch Lord
 Palmerston's Politik auf der Westküste bereits entwickelt hat, die Fortdauer
 jener Politik in unverminderter Strenge verlangt.
 
@@ -668,7 +668,7 @@ Abführungsmittel so wirksam, daß ein Fieberanfall in der Regel nicht viel
 schlimmer war, als eine gewöhnliche Erkältung, und der Patient keine Kraft
 verlor. Eine etwas ähnliche Behandlung hat das Verhältniß der Sterblichkeit in
 Ihrer Majestät Schiffen an der Küste Afrikas tiefer herabgebracht als auf der
-westindischen und nordamerikanischen Station.^[^2903]^
+westindischen und nordamerikanischen Station.<sup>[^2903]</sup>
 
 Wir fanden gewiß nie einen wohlthätigen Menschen, der seine ganze Nächstenliebe
 an's Ausland verschwendete und sich weigerte, den Kindern der Sünde und des
@@ -757,7 +757,7 @@ so viel kosten werde, als die eines einzigen von Ihrer Majestät Kreuzern.
 ::::
 
 
-:::: { .wrap-100 .caption .break-before }
+:::: { .wrap-100 .caption .align-center .break-before }
 ![&nbsp;](Neue_Missionsreisen_999.jpg ""){#b999}
 ::::
 
