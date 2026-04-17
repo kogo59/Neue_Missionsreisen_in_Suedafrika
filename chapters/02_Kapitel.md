@@ -10,9 +10,9 @@ Schlechte Klasse der sogenannten „Unverbesserlichen“ — Aberglaube hinsicht
 der Mangobäume, des Kaffees und des Regenmachens. — Man versichert sich der
 Sclaven durch häusliche Bande. — Ein Fall von freiwilliger Sclaverei. — Grausame
 Natur der Halbkasten. — Angeborene Liebe zum Handel. — Eingeborener ärztlicher
-Stand. — Elephanten- und Krokodilarzneischulen. — Würfeldoctoren und ihre Au—
-wendung als Entdeckungspolizei. — Sennes- und Indigopflanzen. — Steinkohle, Gold
-und Eisen. — Wir fahren zu den Kebrabasa-Stromschnellen hinauf. — Schwarze
+Stand. — Elephanten- und Krokodilarzneischulen. — Würfeldoctoren und ihre
+Anwendung als Entdeckungspolizei. — Sennes- und Indigopflanzen. — Steinkohle,
+Gold und Eisen. — Wir fahren zu den Kebrabasa-Stromschnellen hinauf. — Schwarze
 Glasur auf Felsen. — Stamm der Badoèma. — Ein Reisemärchen. — Der Fluß Luia. —
 Flußpferdfleisch. — Schwieriges Reisen. — Heilender Schlaf. — Sonnenstich. —
 Morumbwa-Wasserfall. — Die Kebrabasa von einem Ende bis zum andern besichtigt.
